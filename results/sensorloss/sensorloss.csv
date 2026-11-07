@@ -1,0 +1,365 @@
+group,model,seed,system,family,label,loc,rec_B1
+none,RF,0,model,valve-bearing,0.07222222222222222,0.32222222222222224,1.0
+none,RF,0,model,valve-valve,0.06666666666666667,0.24166666666666667,
+none,RF,0,+ Bayesian layer,valve-bearing,0.21666666666666667,0.4166666666666667,1.0
+none,RF,0,+ Bayesian layer,valve-valve,0.1,0.25,
+none,MLP,0,model,valve-bearing,0.18333333333333332,0.35555555555555557,1.0
+none,MLP,0,model,valve-valve,0.0,0.35833333333333334,
+none,MLP,0,+ Bayesian layer,valve-bearing,0.2111111111111111,0.38333333333333336,1.0
+none,MLP,0,+ Bayesian layer,valve-valve,0.0,0.375,
+none,MLP,1,model,valve-bearing,0.16111111111111112,0.3388888888888889,1.0
+none,MLP,1,model,valve-valve,0.008333333333333333,0.25833333333333336,
+none,MLP,1,+ Bayesian layer,valve-bearing,0.21666666666666667,0.39444444444444443,1.0
+none,MLP,1,+ Bayesian layer,valve-valve,0.008333333333333333,0.36666666666666664,
+none,MLP,2,model,valve-bearing,0.20555555555555555,0.3055555555555556,1.0
+none,MLP,2,model,valve-valve,0.0,0.26666666666666666,
+none,MLP,2,+ Bayesian layer,valve-bearing,0.17777777777777778,0.31666666666666665,1.0
+none,MLP,2,+ Bayesian layer,valve-valve,0.025,0.375,
+none,CNN,0,model,valve-bearing,0.29444444444444445,0.34444444444444444,0.9111111111111111
+none,CNN,0,model,valve-valve,0.03333333333333333,0.275,
+none,CNN,0,+ Bayesian layer,valve-bearing,0.3277777777777778,0.4388888888888889,0.9833333333333333
+none,CNN,0,+ Bayesian layer,valve-valve,0.0,0.3,
+none,CNN,1,model,valve-bearing,0.3388888888888889,0.4,0.9833333333333333
+none,CNN,1,model,valve-valve,0.175,0.3333333333333333,
+none,CNN,1,+ Bayesian layer,valve-bearing,0.34444444444444444,0.4388888888888889,0.9888888888888889
+none,CNN,1,+ Bayesian layer,valve-valve,0.09166666666666666,0.26666666666666666,
+none,CNN,2,model,valve-bearing,0.38333333333333336,0.4444444444444444,0.9611111111111111
+none,CNN,2,model,valve-valve,0.041666666666666664,0.26666666666666666,
+none,CNN,2,+ Bayesian layer,valve-bearing,0.39444444444444443,0.4777777777777778,0.9944444444444445
+none,CNN,2,+ Bayesian layer,valve-valve,0.041666666666666664,0.275,
+none,Dense,0,model,valve-bearing,0.23333333333333334,0.45555555555555555,1.0
+none,Dense,0,model,valve-valve,0.008333333333333333,0.125,
+none,Dense,0,+ Bayesian layer,valve-bearing,0.32222222222222224,0.5611111111111111,1.0
+none,Dense,0,+ Bayesian layer,valve-valve,0.0,0.24166666666666667,
+none,Dense,1,model,valve-bearing,0.31666666666666665,0.5055555555555555,1.0
+none,Dense,1,model,valve-valve,0.0,0.058333333333333334,
+none,Dense,1,+ Bayesian layer,valve-bearing,0.32222222222222224,0.5055555555555555,1.0
+none,Dense,1,+ Bayesian layer,valve-valve,0.0,0.24166666666666667,
+none,Dense,2,model,valve-bearing,0.1111111111111111,0.35,0.9777777777777777
+none,Dense,2,model,valve-valve,0.0,0.18333333333333332,
+none,Dense,2,+ Bayesian layer,valve-bearing,0.24444444444444444,0.4388888888888889,0.9888888888888889
+none,Dense,2,+ Bayesian layer,valve-valve,0.0,0.3333333333333333,
+none,GNN,0,model,valve-bearing,0.2388888888888889,0.5555555555555556,1.0
+none,GNN,0,model,valve-valve,0.0,0.21666666666666667,
+none,GNN,0,+ Bayesian layer,valve-bearing,0.3,0.5388888888888889,1.0
+none,GNN,0,+ Bayesian layer,valve-valve,0.05,0.25,
+none,GNN,1,model,valve-bearing,0.32222222222222224,0.5722222222222222,1.0
+none,GNN,1,model,valve-valve,0.016666666666666666,0.16666666666666666,
+none,GNN,1,+ Bayesian layer,valve-bearing,0.3388888888888889,0.5388888888888889,1.0
+none,GNN,1,+ Bayesian layer,valve-valve,0.058333333333333334,0.25,
+none,GNN,2,model,valve-bearing,0.16111111111111112,0.3277777777777778,1.0
+none,GNN,2,model,valve-valve,0.0,0.05,
+none,GNN,2,+ Bayesian layer,valve-bearing,0.22777777777777777,0.4,1.0
+none,GNN,2,+ Bayesian layer,valve-valve,0.0,0.24166666666666667,
+pressures,RF,0,model,valve-bearing,0.07222222222222222,0.07222222222222222,0.9833333333333333
+pressures,RF,0,model,valve-valve,0.0,0.06666666666666667,
+pressures,RF,0,+ Bayesian layer,valve-bearing,0.07222222222222222,0.1111111111111111,0.9611111111111111
+pressures,RF,0,+ Bayesian layer,valve-valve,0.0,0.03333333333333333,
+pressures,MLP,0,model,valve-bearing,0.16666666666666666,0.16666666666666666,1.0
+pressures,MLP,0,model,valve-valve,0.0,0.075,
+pressures,MLP,0,+ Bayesian layer,valve-bearing,0.10555555555555556,0.10555555555555556,1.0
+pressures,MLP,0,+ Bayesian layer,valve-valve,0.0,0.008333333333333333,
+pressures,MLP,1,model,valve-bearing,0.16111111111111112,0.16111111111111112,1.0
+pressures,MLP,1,model,valve-valve,0.0,0.09166666666666666,
+pressures,MLP,1,+ Bayesian layer,valve-bearing,0.1,0.1,0.9944444444444445
+pressures,MLP,1,+ Bayesian layer,valve-valve,0.0,0.03333333333333333,
+pressures,MLP,2,model,valve-bearing,0.03333333333333333,0.03333333333333333,0.95
+pressures,MLP,2,model,valve-valve,0.0,0.008333333333333333,
+pressures,MLP,2,+ Bayesian layer,valve-bearing,0.05555555555555555,0.06111111111111111,0.9777777777777777
+pressures,MLP,2,+ Bayesian layer,valve-valve,0.0,0.025,
+pressures,CNN,0,model,valve-bearing,0.07222222222222222,0.07777777777777778,0.8944444444444445
+pressures,CNN,0,model,valve-valve,0.0,0.08333333333333333,
+pressures,CNN,0,+ Bayesian layer,valve-bearing,0.07222222222222222,0.07222222222222222,0.9222222222222223
+pressures,CNN,0,+ Bayesian layer,valve-valve,0.0,0.05,
+pressures,CNN,1,model,valve-bearing,0.1,0.1111111111111111,0.9833333333333333
+pressures,CNN,1,model,valve-valve,0.025,0.03333333333333333,
+pressures,CNN,1,+ Bayesian layer,valve-bearing,0.09444444444444444,0.1111111111111111,0.9777777777777777
+pressures,CNN,1,+ Bayesian layer,valve-valve,0.008333333333333333,0.041666666666666664,
+pressures,CNN,2,model,valve-bearing,0.14444444444444443,0.15555555555555556,0.9555555555555556
+pressures,CNN,2,model,valve-valve,0.0,0.03333333333333333,
+pressures,CNN,2,+ Bayesian layer,valve-bearing,0.11666666666666667,0.12222222222222222,0.9388888888888889
+pressures,CNN,2,+ Bayesian layer,valve-valve,0.0,0.041666666666666664,
+pressures,Dense,0,model,valve-bearing,0.15,0.18888888888888888,1.0
+pressures,Dense,0,model,valve-valve,0.0,0.041666666666666664,
+pressures,Dense,0,+ Bayesian layer,valve-bearing,0.1388888888888889,0.15,0.9944444444444445
+pressures,Dense,0,+ Bayesian layer,valve-valve,0.0,0.03333333333333333,
+pressures,Dense,1,model,valve-bearing,0.13333333333333333,0.15555555555555556,0.9888888888888889
+pressures,Dense,1,model,valve-valve,0.0,0.008333333333333333,
+pressures,Dense,1,+ Bayesian layer,valve-bearing,0.11666666666666667,0.12222222222222222,0.9666666666666667
+pressures,Dense,1,+ Bayesian layer,valve-valve,0.0,0.016666666666666666,
+pressures,Dense,2,model,valve-bearing,0.11666666666666667,0.13333333333333333,0.9555555555555556
+pressures,Dense,2,model,valve-valve,0.0,0.09166666666666666,
+pressures,Dense,2,+ Bayesian layer,valve-bearing,0.08888888888888889,0.08888888888888889,0.95
+pressures,Dense,2,+ Bayesian layer,valve-valve,0.0,0.06666666666666667,
+pressures,GNN,0,model,valve-bearing,0.14444444444444443,0.22777777777777777,1.0
+pressures,GNN,0,model,valve-valve,0.0,0.016666666666666666,
+pressures,GNN,0,+ Bayesian layer,valve-bearing,0.15,0.2,0.9944444444444445
+pressures,GNN,0,+ Bayesian layer,valve-valve,0.0,0.03333333333333333,
+pressures,GNN,1,model,valve-bearing,0.15555555555555556,0.25,1.0
+pressures,GNN,1,model,valve-valve,0.0,0.0,
+pressures,GNN,1,+ Bayesian layer,valve-bearing,0.16666666666666666,0.20555555555555555,0.9944444444444445
+pressures,GNN,1,+ Bayesian layer,valve-valve,0.0,0.0,
+pressures,GNN,2,model,valve-bearing,0.09444444444444444,0.09444444444444444,1.0
+pressures,GNN,2,model,valve-valve,0.0,0.0,
+pressures,GNN,2,+ Bayesian layer,valve-bearing,0.07777777777777778,0.07777777777777778,1.0
+pressures,GNN,2,+ Bayesian layer,valve-valve,0.0,0.0,
+"stage-1 valve sensors (A1, Mic1)",RF,0,model,valve-bearing,0.07222222222222222,0.31666666666666665,0.9833333333333333
+"stage-1 valve sensors (A1, Mic1)",RF,0,model,valve-valve,0.075,0.31666666666666665,
+"stage-1 valve sensors (A1, Mic1)",RF,0,+ Bayesian layer,valve-bearing,0.21666666666666667,0.4111111111111111,0.9944444444444445
+"stage-1 valve sensors (A1, Mic1)",RF,0,+ Bayesian layer,valve-valve,0.09166666666666666,0.24166666666666667,
+"stage-1 valve sensors (A1, Mic1)",MLP,0,model,valve-bearing,0.0,0.0,0.2611111111111111
+"stage-1 valve sensors (A1, Mic1)",MLP,0,model,valve-valve,0.0,0.0,
+"stage-1 valve sensors (A1, Mic1)",MLP,0,+ Bayesian layer,valve-bearing,0.005555555555555556,0.10555555555555556,0.5111111111111111
+"stage-1 valve sensors (A1, Mic1)",MLP,0,+ Bayesian layer,valve-valve,0.0,0.23333333333333334,
+"stage-1 valve sensors (A1, Mic1)",MLP,1,model,valve-bearing,0.0,0.0,0.005555555555555556
+"stage-1 valve sensors (A1, Mic1)",MLP,1,model,valve-valve,0.0,0.0,
+"stage-1 valve sensors (A1, Mic1)",MLP,1,+ Bayesian layer,valve-bearing,0.0,0.022222222222222223,0.2833333333333333
+"stage-1 valve sensors (A1, Mic1)",MLP,1,+ Bayesian layer,valve-valve,0.0,0.21666666666666667,
+"stage-1 valve sensors (A1, Mic1)",MLP,2,model,valve-bearing,0.0,0.0,0.0
+"stage-1 valve sensors (A1, Mic1)",MLP,2,model,valve-valve,0.0,0.10833333333333334,
+"stage-1 valve sensors (A1, Mic1)",MLP,2,+ Bayesian layer,valve-bearing,0.0,0.0,0.11666666666666667
+"stage-1 valve sensors (A1, Mic1)",MLP,2,+ Bayesian layer,valve-valve,0.0,0.31666666666666665,
+"stage-1 valve sensors (A1, Mic1)",CNN,0,model,valve-bearing,0.14444444444444443,0.15,0.5
+"stage-1 valve sensors (A1, Mic1)",CNN,0,model,valve-valve,0.09166666666666666,0.11666666666666667,
+"stage-1 valve sensors (A1, Mic1)",CNN,0,+ Bayesian layer,valve-bearing,0.26666666666666666,0.34444444444444444,0.7444444444444445
+"stage-1 valve sensors (A1, Mic1)",CNN,0,+ Bayesian layer,valve-valve,0.0,0.25,
+"stage-1 valve sensors (A1, Mic1)",CNN,1,model,valve-bearing,0.05,0.05,0.3388888888888889
+"stage-1 valve sensors (A1, Mic1)",CNN,1,model,valve-valve,0.05,0.21666666666666667,
+"stage-1 valve sensors (A1, Mic1)",CNN,1,+ Bayesian layer,valve-bearing,0.17777777777777778,0.2611111111111111,0.7277777777777777
+"stage-1 valve sensors (A1, Mic1)",CNN,1,+ Bayesian layer,valve-valve,0.0,0.25,
+"stage-1 valve sensors (A1, Mic1)",CNN,2,model,valve-bearing,0.044444444444444446,0.08333333333333333,0.15555555555555556
+"stage-1 valve sensors (A1, Mic1)",CNN,2,model,valve-valve,0.0,0.2,
+"stage-1 valve sensors (A1, Mic1)",CNN,2,+ Bayesian layer,valve-bearing,0.1111111111111111,0.22777777777777777,0.4444444444444444
+"stage-1 valve sensors (A1, Mic1)",CNN,2,+ Bayesian layer,valve-valve,0.0,0.25,
+"stage-1 valve sensors (A1, Mic1)",Dense,0,model,valve-bearing,0.13333333333333333,0.16666666666666666,0.9722222222222222
+"stage-1 valve sensors (A1, Mic1)",Dense,0,model,valve-valve,0.0,0.1,
+"stage-1 valve sensors (A1, Mic1)",Dense,0,+ Bayesian layer,valve-bearing,0.16666666666666666,0.34444444444444444,1.0
+"stage-1 valve sensors (A1, Mic1)",Dense,0,+ Bayesian layer,valve-valve,0.0,0.23333333333333334,
+"stage-1 valve sensors (A1, Mic1)",Dense,1,model,valve-bearing,0.09444444444444444,0.2722222222222222,0.8
+"stage-1 valve sensors (A1, Mic1)",Dense,1,model,valve-valve,0.0,0.016666666666666666,
+"stage-1 valve sensors (A1, Mic1)",Dense,1,+ Bayesian layer,valve-bearing,0.15555555555555556,0.36666666666666664,0.9444444444444444
+"stage-1 valve sensors (A1, Mic1)",Dense,1,+ Bayesian layer,valve-valve,0.0,0.2,
+"stage-1 valve sensors (A1, Mic1)",Dense,2,model,valve-bearing,0.044444444444444446,0.12777777777777777,0.35
+"stage-1 valve sensors (A1, Mic1)",Dense,2,model,valve-valve,0.0,0.058333333333333334,
+"stage-1 valve sensors (A1, Mic1)",Dense,2,+ Bayesian layer,valve-bearing,0.07222222222222222,0.2388888888888889,0.6166666666666667
+"stage-1 valve sensors (A1, Mic1)",Dense,2,+ Bayesian layer,valve-valve,0.0,0.325,
+"stage-1 valve sensors (A1, Mic1)",GNN,0,model,valve-bearing,0.18888888888888888,0.42777777777777776,0.9833333333333333
+"stage-1 valve sensors (A1, Mic1)",GNN,0,model,valve-valve,0.0,0.13333333333333333,
+"stage-1 valve sensors (A1, Mic1)",GNN,0,+ Bayesian layer,valve-bearing,0.26666666666666666,0.49444444444444446,0.9888888888888889
+"stage-1 valve sensors (A1, Mic1)",GNN,0,+ Bayesian layer,valve-valve,0.05,0.25,
+"stage-1 valve sensors (A1, Mic1)",GNN,1,model,valve-bearing,0.3388888888888889,0.6055555555555555,1.0
+"stage-1 valve sensors (A1, Mic1)",GNN,1,model,valve-valve,0.008333333333333333,0.125,
+"stage-1 valve sensors (A1, Mic1)",GNN,1,+ Bayesian layer,valve-bearing,0.3388888888888889,0.5388888888888889,1.0
+"stage-1 valve sensors (A1, Mic1)",GNN,1,+ Bayesian layer,valve-valve,0.058333333333333334,0.19166666666666668,
+"stage-1 valve sensors (A1, Mic1)",GNN,2,model,valve-bearing,0.1388888888888889,0.3055555555555556,1.0
+"stage-1 valve sensors (A1, Mic1)",GNN,2,model,valve-valve,0.0,0.05,
+"stage-1 valve sensors (A1, Mic1)",GNN,2,+ Bayesian layer,valve-bearing,0.2111111111111111,0.38333333333333336,1.0
+"stage-1 valve sensors (A1, Mic1)",GNN,2,+ Bayesian layer,valve-valve,0.0,0.15,
+"stage-2 valve sensors (A2, Mic2)",RF,0,model,valve-bearing,0.0,0.25,1.0
+"stage-2 valve sensors (A2, Mic2)",RF,0,model,valve-valve,0.041666666666666664,0.16666666666666666,
+"stage-2 valve sensors (A2, Mic2)",RF,0,+ Bayesian layer,valve-bearing,0.15555555555555556,0.35555555555555557,1.0
+"stage-2 valve sensors (A2, Mic2)",RF,0,+ Bayesian layer,valve-valve,0.1,0.25,
+"stage-2 valve sensors (A2, Mic2)",MLP,0,model,valve-bearing,0.0,0.11666666666666667,0.9722222222222222
+"stage-2 valve sensors (A2, Mic2)",MLP,0,model,valve-valve,0.0,0.016666666666666666,
+"stage-2 valve sensors (A2, Mic2)",MLP,0,+ Bayesian layer,valve-bearing,0.027777777777777776,0.25,1.0
+"stage-2 valve sensors (A2, Mic2)",MLP,0,+ Bayesian layer,valve-valve,0.0,0.2,
+"stage-2 valve sensors (A2, Mic2)",MLP,1,model,valve-bearing,0.05555555555555555,0.2111111111111111,0.9277777777777778
+"stage-2 valve sensors (A2, Mic2)",MLP,1,model,valve-valve,0.0,0.0,
+"stage-2 valve sensors (A2, Mic2)",MLP,1,+ Bayesian layer,valve-bearing,0.08333333333333333,0.25555555555555554,1.0
+"stage-2 valve sensors (A2, Mic2)",MLP,1,+ Bayesian layer,valve-valve,0.0,0.14166666666666666,
+"stage-2 valve sensors (A2, Mic2)",MLP,2,model,valve-bearing,0.05555555555555555,0.08888888888888889,0.4722222222222222
+"stage-2 valve sensors (A2, Mic2)",MLP,2,model,valve-valve,0.0,0.0,
+"stage-2 valve sensors (A2, Mic2)",MLP,2,+ Bayesian layer,valve-bearing,0.08888888888888889,0.23333333333333334,0.9444444444444444
+"stage-2 valve sensors (A2, Mic2)",MLP,2,+ Bayesian layer,valve-valve,0.0,0.09166666666666666,
+"stage-2 valve sensors (A2, Mic2)",CNN,0,model,valve-bearing,0.18888888888888888,0.2388888888888889,0.9833333333333333
+"stage-2 valve sensors (A2, Mic2)",CNN,0,model,valve-valve,0.041666666666666664,0.14166666666666666,
+"stage-2 valve sensors (A2, Mic2)",CNN,0,+ Bayesian layer,valve-bearing,0.21666666666666667,0.32222222222222224,1.0
+"stage-2 valve sensors (A2, Mic2)",CNN,0,+ Bayesian layer,valve-valve,0.008333333333333333,0.25,
+"stage-2 valve sensors (A2, Mic2)",CNN,1,model,valve-bearing,0.17777777777777778,0.26666666666666666,1.0
+"stage-2 valve sensors (A2, Mic2)",CNN,1,model,valve-valve,0.18333333333333332,0.25,
+"stage-2 valve sensors (A2, Mic2)",CNN,1,+ Bayesian layer,valve-bearing,0.22777777777777777,0.3333333333333333,1.0
+"stage-2 valve sensors (A2, Mic2)",CNN,1,+ Bayesian layer,valve-valve,0.075,0.25,
+"stage-2 valve sensors (A2, Mic2)",CNN,2,model,valve-bearing,0.2111111111111111,0.2722222222222222,1.0
+"stage-2 valve sensors (A2, Mic2)",CNN,2,model,valve-valve,0.075,0.175,
+"stage-2 valve sensors (A2, Mic2)",CNN,2,+ Bayesian layer,valve-bearing,0.23333333333333334,0.3388888888888889,1.0
+"stage-2 valve sensors (A2, Mic2)",CNN,2,+ Bayesian layer,valve-valve,0.058333333333333334,0.25,
+"stage-2 valve sensors (A2, Mic2)",Dense,0,model,valve-bearing,0.08333333333333333,0.2777777777777778,1.0
+"stage-2 valve sensors (A2, Mic2)",Dense,0,model,valve-valve,0.008333333333333333,0.016666666666666666,
+"stage-2 valve sensors (A2, Mic2)",Dense,0,+ Bayesian layer,valve-bearing,0.17777777777777778,0.38333333333333336,1.0
+"stage-2 valve sensors (A2, Mic2)",Dense,0,+ Bayesian layer,valve-valve,0.0,0.23333333333333334,
+"stage-2 valve sensors (A2, Mic2)",Dense,1,model,valve-bearing,0.15,0.35555555555555557,1.0
+"stage-2 valve sensors (A2, Mic2)",Dense,1,model,valve-valve,0.0,0.0,
+"stage-2 valve sensors (A2, Mic2)",Dense,1,+ Bayesian layer,valve-bearing,0.16111111111111112,0.35,1.0
+"stage-2 valve sensors (A2, Mic2)",Dense,1,+ Bayesian layer,valve-valve,0.0,0.15833333333333333,
+"stage-2 valve sensors (A2, Mic2)",Dense,2,model,valve-bearing,0.005555555555555556,0.25,0.9777777777777777
+"stage-2 valve sensors (A2, Mic2)",Dense,2,model,valve-valve,0.0,0.15833333333333333,
+"stage-2 valve sensors (A2, Mic2)",Dense,2,+ Bayesian layer,valve-bearing,0.1388888888888889,0.3277777777777778,1.0
+"stage-2 valve sensors (A2, Mic2)",Dense,2,+ Bayesian layer,valve-valve,0.0,0.25,
+"stage-2 valve sensors (A2, Mic2)",GNN,0,model,valve-bearing,0.005555555555555556,0.25555555555555554,1.0
+"stage-2 valve sensors (A2, Mic2)",GNN,0,model,valve-valve,0.0,0.09166666666666666,
+"stage-2 valve sensors (A2, Mic2)",GNN,0,+ Bayesian layer,valve-bearing,0.05555555555555555,0.31666666666666665,1.0
+"stage-2 valve sensors (A2, Mic2)",GNN,0,+ Bayesian layer,valve-valve,0.0,0.13333333333333333,
+"stage-2 valve sensors (A2, Mic2)",GNN,1,model,valve-bearing,0.13333333333333333,0.3,1.0
+"stage-2 valve sensors (A2, Mic2)",GNN,1,model,valve-valve,0.0,0.11666666666666667,
+"stage-2 valve sensors (A2, Mic2)",GNN,1,+ Bayesian layer,valve-bearing,0.17222222222222222,0.3333333333333333,1.0
+"stage-2 valve sensors (A2, Mic2)",GNN,1,+ Bayesian layer,valve-valve,0.041666666666666664,0.125,
+"stage-2 valve sensors (A2, Mic2)",GNN,2,model,valve-bearing,0.0,0.0,1.0
+"stage-2 valve sensors (A2, Mic2)",GNN,2,model,valve-valve,0.0,0.0,
+"stage-2 valve sensors (A2, Mic2)",GNN,2,+ Bayesian layer,valve-bearing,0.06666666666666667,0.2388888888888889,1.0
+"stage-2 valve sensors (A2, Mic2)",GNN,2,+ Bayesian layer,valve-valve,0.0,0.125,
+"bearing accelerometers (A3, A4)",RF,0,model,valve-bearing,0.0,0.0,0.0
+"bearing accelerometers (A3, A4)",RF,0,model,valve-valve,0.058333333333333334,0.075,
+"bearing accelerometers (A3, A4)",RF,0,+ Bayesian layer,valve-bearing,0.0,0.05555555555555555,0.22777777777777777
+"bearing accelerometers (A3, A4)",RF,0,+ Bayesian layer,valve-valve,0.10833333333333334,0.25,
+"bearing accelerometers (A3, A4)",MLP,0,model,valve-bearing,0.0,0.0,0.0
+"bearing accelerometers (A3, A4)",MLP,0,model,valve-valve,0.0,0.0,
+"bearing accelerometers (A3, A4)",MLP,0,+ Bayesian layer,valve-bearing,0.022222222222222223,0.03333333333333333,0.03888888888888889
+"bearing accelerometers (A3, A4)",MLP,0,+ Bayesian layer,valve-valve,0.0,0.25833333333333336,
+"bearing accelerometers (A3, A4)",MLP,1,model,valve-bearing,0.0,0.0,0.0
+"bearing accelerometers (A3, A4)",MLP,1,model,valve-valve,0.0,0.0,
+"bearing accelerometers (A3, A4)",MLP,1,+ Bayesian layer,valve-bearing,0.0,0.011111111111111112,0.011111111111111112
+"bearing accelerometers (A3, A4)",MLP,1,+ Bayesian layer,valve-valve,0.008333333333333333,0.23333333333333334,
+"bearing accelerometers (A3, A4)",MLP,2,model,valve-bearing,0.0,0.0,0.0
+"bearing accelerometers (A3, A4)",MLP,2,model,valve-valve,0.0,0.016666666666666666,
+"bearing accelerometers (A3, A4)",MLP,2,+ Bayesian layer,valve-bearing,0.0,0.0,0.0
+"bearing accelerometers (A3, A4)",MLP,2,+ Bayesian layer,valve-valve,0.0,0.26666666666666666,
+"bearing accelerometers (A3, A4)",CNN,0,model,valve-bearing,0.0,0.022222222222222223,0.07222222222222222
+"bearing accelerometers (A3, A4)",CNN,0,model,valve-valve,0.125,0.125,
+"bearing accelerometers (A3, A4)",CNN,0,+ Bayesian layer,valve-bearing,0.10555555555555556,0.18333333333333332,0.31666666666666665
+"bearing accelerometers (A3, A4)",CNN,0,+ Bayesian layer,valve-valve,0.075,0.25,
+"bearing accelerometers (A3, A4)",CNN,1,model,valve-bearing,0.08333333333333333,0.48333333333333334,0.8222222222222222
+"bearing accelerometers (A3, A4)",CNN,1,model,valve-valve,0.11666666666666667,0.16666666666666666,
+"bearing accelerometers (A3, A4)",CNN,1,+ Bayesian layer,valve-bearing,0.13333333333333333,0.43333333333333335,0.8833333333333333
+"bearing accelerometers (A3, A4)",CNN,1,+ Bayesian layer,valve-valve,0.016666666666666666,0.125,
+"bearing accelerometers (A3, A4)",CNN,2,model,valve-bearing,0.0,0.12222222222222222,0.26666666666666666
+"bearing accelerometers (A3, A4)",CNN,2,model,valve-valve,0.15,0.35833333333333334,
+"bearing accelerometers (A3, A4)",CNN,2,+ Bayesian layer,valve-bearing,0.08888888888888889,0.2111111111111111,0.38333333333333336
+"bearing accelerometers (A3, A4)",CNN,2,+ Bayesian layer,valve-valve,0.11666666666666667,0.25833333333333336,
+"bearing accelerometers (A3, A4)",Dense,0,model,valve-bearing,0.0,0.0,0.0
+"bearing accelerometers (A3, A4)",Dense,0,model,valve-valve,0.0,0.0,
+"bearing accelerometers (A3, A4)",Dense,0,+ Bayesian layer,valve-bearing,0.0,0.0,0.0
+"bearing accelerometers (A3, A4)",Dense,0,+ Bayesian layer,valve-valve,0.0,0.14166666666666666,
+"bearing accelerometers (A3, A4)",Dense,1,model,valve-bearing,0.0,0.0,0.0
+"bearing accelerometers (A3, A4)",Dense,1,model,valve-valve,0.0,0.0,
+"bearing accelerometers (A3, A4)",Dense,1,+ Bayesian layer,valve-bearing,0.0,0.0,0.0
+"bearing accelerometers (A3, A4)",Dense,1,+ Bayesian layer,valve-valve,0.0,0.225,
+"bearing accelerometers (A3, A4)",Dense,2,model,valve-bearing,0.0,0.0,0.0
+"bearing accelerometers (A3, A4)",Dense,2,model,valve-valve,0.0,0.05,
+"bearing accelerometers (A3, A4)",Dense,2,+ Bayesian layer,valve-bearing,0.0,0.0,0.0
+"bearing accelerometers (A3, A4)",Dense,2,+ Bayesian layer,valve-valve,0.0,0.3333333333333333,
+"bearing accelerometers (A3, A4)",GNN,0,model,valve-bearing,0.0,0.0,0.0
+"bearing accelerometers (A3, A4)",GNN,0,model,valve-valve,0.0,0.21666666666666667,
+"bearing accelerometers (A3, A4)",GNN,0,+ Bayesian layer,valve-bearing,0.0,0.0,0.0
+"bearing accelerometers (A3, A4)",GNN,0,+ Bayesian layer,valve-valve,0.06666666666666667,0.25,
+"bearing accelerometers (A3, A4)",GNN,1,model,valve-bearing,0.0,0.0,0.0
+"bearing accelerometers (A3, A4)",GNN,1,model,valve-valve,0.016666666666666666,0.16666666666666666,
+"bearing accelerometers (A3, A4)",GNN,1,+ Bayesian layer,valve-bearing,0.0,0.0,0.0
+"bearing accelerometers (A3, A4)",GNN,1,+ Bayesian layer,valve-valve,0.06666666666666667,0.30833333333333335,
+"bearing accelerometers (A3, A4)",GNN,2,model,valve-bearing,0.0,0.0,0.0
+"bearing accelerometers (A3, A4)",GNN,2,model,valve-valve,0.0,0.05,
+"bearing accelerometers (A3, A4)",GNN,2,+ Bayesian layer,valve-bearing,0.0,0.0,0.0
+"bearing accelerometers (A3, A4)",GNN,2,+ Bayesian layer,valve-valve,0.016666666666666666,0.25833333333333336,
+microphones,RF,0,model,valve-bearing,0.07222222222222222,0.3111111111111111,0.9888888888888889
+microphones,RF,0,model,valve-valve,0.075,0.25833333333333336,
+microphones,RF,0,+ Bayesian layer,valve-bearing,0.21666666666666667,0.4111111111111111,0.9944444444444445
+microphones,RF,0,+ Bayesian layer,valve-valve,0.09166666666666666,0.24166666666666667,
+microphones,MLP,0,model,valve-bearing,0.0,0.0,0.03333333333333333
+microphones,MLP,0,model,valve-valve,0.0,0.0,
+microphones,MLP,0,+ Bayesian layer,valve-bearing,0.0,0.0,0.2388888888888889
+microphones,MLP,0,+ Bayesian layer,valve-valve,0.0,0.225,
+microphones,MLP,1,model,valve-bearing,0.0,0.0,0.0
+microphones,MLP,1,model,valve-valve,0.0,0.0,
+microphones,MLP,1,+ Bayesian layer,valve-bearing,0.0,0.016666666666666666,0.08333333333333333
+microphones,MLP,1,+ Bayesian layer,valve-valve,0.0,0.15,
+microphones,MLP,2,model,valve-bearing,0.0,0.0,0.0
+microphones,MLP,2,model,valve-valve,0.0,0.11666666666666667,
+microphones,MLP,2,+ Bayesian layer,valve-bearing,0.0,0.0,0.1
+microphones,MLP,2,+ Bayesian layer,valve-valve,0.0,0.25833333333333336,
+microphones,CNN,0,model,valve-bearing,0.24444444444444444,0.25555555555555554,0.6166666666666667
+microphones,CNN,0,model,valve-valve,0.10833333333333334,0.125,
+microphones,CNN,0,+ Bayesian layer,valve-bearing,0.2722222222222222,0.35555555555555557,0.9611111111111111
+microphones,CNN,0,+ Bayesian layer,valve-valve,0.0,0.25,
+microphones,CNN,1,model,valve-bearing,0.06666666666666667,0.08333333333333333,0.5833333333333334
+microphones,CNN,1,model,valve-valve,0.08333333333333333,0.20833333333333334,
+microphones,CNN,1,+ Bayesian layer,valve-bearing,0.2222222222222222,0.31666666666666665,0.9611111111111111
+microphones,CNN,1,+ Bayesian layer,valve-valve,0.0,0.25,
+microphones,CNN,2,model,valve-bearing,0.13333333333333333,0.1388888888888889,0.5333333333333333
+microphones,CNN,2,model,valve-valve,0.0,0.225,
+microphones,CNN,2,+ Bayesian layer,valve-bearing,0.15555555555555556,0.2722222222222222,0.9277777777777778
+microphones,CNN,2,+ Bayesian layer,valve-valve,0.0,0.25,
+microphones,Dense,0,model,valve-bearing,0.13333333333333333,0.16666666666666666,0.95
+microphones,Dense,0,model,valve-valve,0.0,0.03333333333333333,
+microphones,Dense,0,+ Bayesian layer,valve-bearing,0.15555555555555556,0.3333333333333333,1.0
+microphones,Dense,0,+ Bayesian layer,valve-valve,0.0,0.225,
+microphones,Dense,1,model,valve-bearing,0.10555555555555556,0.2777777777777778,0.8222222222222222
+microphones,Dense,1,model,valve-valve,0.0,0.0,
+microphones,Dense,1,+ Bayesian layer,valve-bearing,0.19444444444444445,0.3888888888888889,0.9833333333333333
+microphones,Dense,1,+ Bayesian layer,valve-valve,0.0,0.15,
+microphones,Dense,2,model,valve-bearing,0.06111111111111111,0.15,0.4722222222222222
+microphones,Dense,2,model,valve-valve,0.0,0.08333333333333333,
+microphones,Dense,2,+ Bayesian layer,valve-bearing,0.08333333333333333,0.3277777777777778,0.8333333333333334
+microphones,Dense,2,+ Bayesian layer,valve-valve,0.0,0.30833333333333335,
+microphones,GNN,0,model,valve-bearing,0.15,0.4388888888888889,1.0
+microphones,GNN,0,model,valve-valve,0.0,0.008333333333333333,
+microphones,GNN,0,+ Bayesian layer,valve-bearing,0.2222222222222222,0.4722222222222222,1.0
+microphones,GNN,0,+ Bayesian layer,valve-valve,0.016666666666666666,0.19166666666666668,
+microphones,GNN,1,model,valve-bearing,0.3055555555555556,0.5277777777777778,1.0
+microphones,GNN,1,model,valve-valve,0.0,0.11666666666666667,
+microphones,GNN,1,+ Bayesian layer,valve-bearing,0.3333333333333333,0.5055555555555555,1.0
+microphones,GNN,1,+ Bayesian layer,valve-valve,0.008333333333333333,0.15,
+microphones,GNN,2,model,valve-bearing,0.09444444444444444,0.09444444444444444,1.0
+microphones,GNN,2,model,valve-valve,0.0,0.0,
+microphones,GNN,2,+ Bayesian layer,valve-bearing,0.17777777777777778,0.2777777777777778,1.0
+microphones,GNN,2,+ Bayesian layer,valve-valve,0.0,0.008333333333333333,
+currents,RF,0,model,valve-bearing,0.07222222222222222,0.32222222222222224,1.0
+currents,RF,0,model,valve-valve,0.0,0.15833333333333333,
+currents,RF,0,+ Bayesian layer,valve-bearing,0.21666666666666667,0.4222222222222222,1.0
+currents,RF,0,+ Bayesian layer,valve-valve,0.1,0.25,
+currents,MLP,0,model,valve-bearing,0.19444444444444445,0.38333333333333336,1.0
+currents,MLP,0,model,valve-valve,0.0,0.15,
+currents,MLP,0,+ Bayesian layer,valve-bearing,0.16666666666666666,0.37777777777777777,1.0
+currents,MLP,0,+ Bayesian layer,valve-valve,0.0,0.35833333333333334,
+currents,MLP,1,model,valve-bearing,0.12222222222222222,0.28888888888888886,0.9888888888888889
+currents,MLP,1,model,valve-valve,0.0,0.15833333333333333,
+currents,MLP,1,+ Bayesian layer,valve-bearing,0.21666666666666667,0.40555555555555556,1.0
+currents,MLP,1,+ Bayesian layer,valve-valve,0.0,0.36666666666666664,
+currents,MLP,2,model,valve-bearing,0.2388888888888889,0.3333333333333333,0.8944444444444445
+currents,MLP,2,model,valve-valve,0.0,0.24166666666666667,
+currents,MLP,2,+ Bayesian layer,valve-bearing,0.2111111111111111,0.35,1.0
+currents,MLP,2,+ Bayesian layer,valve-valve,0.025,0.35,
+currents,CNN,0,model,valve-bearing,0.29444444444444445,0.4,0.9888888888888889
+currents,CNN,0,model,valve-valve,0.016666666666666666,0.19166666666666668,
+currents,CNN,0,+ Bayesian layer,valve-bearing,0.23333333333333334,0.38333333333333336,1.0
+currents,CNN,0,+ Bayesian layer,valve-valve,0.03333333333333333,0.3333333333333333,
+currents,CNN,1,model,valve-bearing,0.34444444444444444,0.4,0.9944444444444445
+currents,CNN,1,model,valve-valve,0.13333333333333333,0.2833333333333333,
+currents,CNN,1,+ Bayesian layer,valve-bearing,0.3,0.4444444444444444,1.0
+currents,CNN,1,+ Bayesian layer,valve-valve,0.11666666666666667,0.3333333333333333,
+currents,CNN,2,model,valve-bearing,0.46111111111111114,0.5166666666666667,0.9944444444444445
+currents,CNN,2,model,valve-valve,0.1,0.225,
+currents,CNN,2,+ Bayesian layer,valve-bearing,0.38333333333333336,0.5222222222222223,1.0
+currents,CNN,2,+ Bayesian layer,valve-valve,0.1,0.35833333333333334,
+currents,Dense,0,model,valve-bearing,0.21666666666666667,0.5166666666666667,1.0
+currents,Dense,0,model,valve-valve,0.008333333333333333,0.125,
+currents,Dense,0,+ Bayesian layer,valve-bearing,0.32222222222222224,0.5555555555555556,1.0
+currents,Dense,0,+ Bayesian layer,valve-valve,0.0,0.23333333333333334,
+currents,Dense,1,model,valve-bearing,0.3333333333333333,0.5555555555555556,1.0
+currents,Dense,1,model,valve-valve,0.0,0.016666666666666666,
+currents,Dense,1,+ Bayesian layer,valve-bearing,0.3277777777777778,0.5222222222222223,1.0
+currents,Dense,1,+ Bayesian layer,valve-valve,0.0,0.21666666666666667,
+currents,Dense,2,model,valve-bearing,0.11666666666666667,0.3611111111111111,0.9888888888888889
+currents,Dense,2,model,valve-valve,0.0,0.125,
+currents,Dense,2,+ Bayesian layer,valve-bearing,0.2,0.4388888888888889,0.9888888888888889
+currents,Dense,2,+ Bayesian layer,valve-valve,0.0,0.25,
+currents,GNN,0,model,valve-bearing,0.2388888888888889,0.5555555555555556,1.0
+currents,GNN,0,model,valve-valve,0.0,0.21666666666666667,
+currents,GNN,0,+ Bayesian layer,valve-bearing,0.3,0.5388888888888889,1.0
+currents,GNN,0,+ Bayesian layer,valve-valve,0.05,0.25,
+currents,GNN,1,model,valve-bearing,0.32222222222222224,0.5722222222222222,1.0
+currents,GNN,1,model,valve-valve,0.016666666666666666,0.16666666666666666,
+currents,GNN,1,+ Bayesian layer,valve-bearing,0.3388888888888889,0.5388888888888889,1.0
+currents,GNN,1,+ Bayesian layer,valve-valve,0.058333333333333334,0.25,
+currents,GNN,2,model,valve-bearing,0.16111111111111112,0.3277777777777778,1.0
+currents,GNN,2,model,valve-valve,0.0,0.05,
+currents,GNN,2,+ Bayesian layer,valve-bearing,0.22777777777777777,0.4,1.0
+currents,GNN,2,+ Bayesian layer,valve-valve,0.0,0.24166666666666667,

@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "egb250-compound-faults: learning unseen two-fault combinations of a reciprocating compressor from single-fault recordings"
+version: 1.0.0
+date-released: 2026-11-07
+license: MIT
+authors:
+  - family-names: Ghulammohiuddin
+    given-names: Mohammed Juneduddin
+repository-code: "https://github.com/Mohammed190756/egb250-compound-faults"
+keywords:
+  - reciprocating compressor
+  - compound faults
+  - fault diagnosis
+  - physics-guided machine learning
+  - Bayesian reasoning

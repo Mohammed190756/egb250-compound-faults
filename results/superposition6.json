@@ -1,0 +1,142 @@
+[
+ {
+  "family": "valve-bearing",
+  "label": "2S_DV_1+B1_1",
+  "combined": 0.8543034663584439,
+  "singleA": 0.6783113489527415,
+  "singleB": 0.6977417670559725
+ },
+ {
+  "family": "valve-bearing",
+  "label": "2S_DV_1+B1_2",
+  "combined": 0.8497733036268893,
+  "singleA": 0.6094325331050868,
+  "singleB": 0.9081503177869593
+ },
+ {
+  "family": "valve-bearing",
+  "label": "2S_DV_1+B1_3",
+  "combined": 0.8749065555931467,
+  "singleA": 0.6355039532408391,
+  "singleB": 0.9201536969516864
+ },
+ {
+  "family": "valve-bearing",
+  "label": "2S_DV_2+B1_1",
+  "combined": 0.6996642265960354,
+  "singleA": 0.5297697454037162,
+  "singleB": 0.3719375599758024
+ },
+ {
+  "family": "valve-bearing",
+  "label": "2S_DV_2+B1_2",
+  "combined": 0.7809192663752192,
+  "singleA": 0.516228811994732,
+  "singleB": 0.4093757126543962
+ },
+ {
+  "family": "valve-bearing",
+  "label": "2S_DV_2+B1_3",
+  "combined": 0.7163064755215985,
+  "singleA": 0.6785716773425364,
+  "singleB": 0.24096846943929548
+ },
+ {
+  "family": "valve-bearing",
+  "label": "2S_DV_3+B1_1",
+  "combined": 0.49337097587165696,
+  "singleA": 0.14930081930214395,
+  "singleB": 0.6562118710235991
+ },
+ {
+  "family": "valve-bearing",
+  "label": "2S_DV_3+B1_2",
+  "combined": 0.44976412011392153,
+  "singleA": 0.009478206631755163,
+  "singleB": 0.7046253897816327
+ },
+ {
+  "family": "valve-bearing",
+  "label": "2S_DV_3+B1_3",
+  "combined": 0.46471979830169,
+  "singleA": 0.15896795834596514,
+  "singleB": 0.6131812034762479
+ },
+ {
+  "family": "valve-bearing",
+  "label": "2S_DV_4+B1_1",
+  "combined": 0.4517749639914434,
+  "singleA": 0.11890099706615052,
+  "singleB": 0.5982473600306245
+ },
+ {
+  "family": "valve-bearing",
+  "label": "2S_DV_4+B1_2",
+  "combined": 0.6524432907408689,
+  "singleA": 0.17795142750395568,
+  "singleB": 0.6660899668998286
+ },
+ {
+  "family": "valve-bearing",
+  "label": "2S_DV_4+B1_3",
+  "combined": 0.8504310693330822,
+  "singleA": 0.6858466092711856,
+  "singleB": 0.515271199748011
+ },
+ {
+  "family": "valve-valve",
+  "label": "1S_IVb_1+2S_DV_1",
+  "combined": 0.7918377463230513,
+  "singleA": 0.7095062178825965,
+  "singleB": 0.5430300411578892
+ },
+ {
+  "family": "valve-valve",
+  "label": "1S_IVb_2+2S_DV_2",
+  "combined": 0.8583532975275354,
+  "singleA": 0.44183522641587675,
+  "singleB": 0.5490442482772293
+ },
+ {
+  "family": "valve-valve",
+  "label": "1S_IVb_3+2S_DV_3",
+  "combined": 0.8741918989959994,
+  "singleA": 0.8649453425204073,
+  "singleB": 0.6640524475979072
+ },
+ {
+  "family": "valve-valve",
+  "label": "1S_IVb_4+2S_DV_4",
+  "combined": 0.7157602999714798,
+  "singleA": 0.8308733866678317,
+  "singleB": 0.42863313365330147
+ },
+ {
+  "family": "valve-valve",
+  "label": "2S_IV_1+2S_DV_1",
+  "combined": 0.807348797679287,
+  "singleA": 0.5083122960766162,
+  "singleB": 0.8266329982281679
+ },
+ {
+  "family": "valve-valve",
+  "label": "2S_IV_2+2S_DV_2",
+  "combined": 0.913265209120866,
+  "singleA": 0.7448369830805266,
+  "singleB": 0.9268853657646839
+ },
+ {
+  "family": "valve-valve",
+  "label": "2S_IV_3+2S_DV_3",
+  "combined": 0.613303766730825,
+  "singleA": 0.4439814035494239,
+  "singleB": 0.627482153432856
+ },
+ {
+  "family": "valve-valve",
+  "label": "2S_IV_4+2S_DV_4",
+  "combined": 0.7611277581694745,
+  "singleA": 0.8368323873990363,
+  "singleB": 0.40229750317555596
+ }
+]

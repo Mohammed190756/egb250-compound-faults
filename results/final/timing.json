@@ -1,0 +1,27 @@
+{
+ "MLP": {
+  "nparam": 117464,
+  "train_s": 22.13331659634908,
+  "infer_ms_per_rec": 0.036518010000084665,
+  "epochs": 38
+ },
+ "CNN": {
+  "nparam": 213880,
+  "train_s": 279.7787119547526,
+  "infer_ms_per_rec": 1.0547545733334118,
+  "epochs": 67
+ },
+ "Dense": {
+  "nparam": 28736,
+  "train_s": 620.9440279801687,
+  "infer_ms_per_rec": 3.0470350133335464,
+  "epochs": 95
+ },
+ "GNN": {
+  "nparam": 28736,
+  "train_s": 483.02635431289673,
+  "infer_ms_per_rec": 3.0248352766667117,
+  "epochs": 70
+ },
+ "cpu_model": "Intel(R) Xeon(R) Processor @ 2.10GHz"
+}

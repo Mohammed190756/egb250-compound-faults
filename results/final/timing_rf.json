@@ -1,0 +1,11 @@
+{
+ "train_s": 588.0453651280001,
+ "infer_ms_per_rec": 1.1954671633331297,
+ "nodes": 693392,
+ "hp": {
+  "n_estimators": 300,
+  "max_features": 0.3,
+  "max_depth": 20,
+  "min_samples_leaf": 3
+ }
+}

@@ -1,0 +1,1781 @@
+config,model,cond,label_name,family,exact,loc
+C2 M-b (reference),RF,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C2 M-b (reference),RF,MF-P11,2S_DV_2+B1_3,valve-bearing,0.0,1.0
+C2 M-b (reference),RF,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-b (reference),RF,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+C2 M-b (reference),RF,MF-P2,2S_DV_1+B1_1,valve-bearing,0.0,0.0
+C2 M-b (reference),RF,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,1.0
+C2 M-b (reference),RF,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-b (reference),RF,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-b (reference),RF,MF-P6,2S_DV_1+B1_2,valve-bearing,0.8666666666666667,0.8666666666666667
+C2 M-b (reference),RF,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,1.0
+C2 M-b (reference),RF,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-b (reference),RF,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+C2 M-b (reference),RF,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b (reference),RF,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,1.0
+C2 M-b (reference),RF,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b (reference),RF,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b (reference),RF,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.15555555555555553
+C2 M-b (reference),RF,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.5333333333333333,0.5333333333333333
+C2 M-b (reference),RF,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b (reference),RF,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b (reference),MLP,MF-P10,2S_DV_1+B1_3,valve-bearing,0.06666666666666667,0.06666666666666667
+C2 M-b (reference),MLP,MF-P11,2S_DV_2+B1_3,valve-bearing,0.3777777777777778,0.8222222222222223
+C2 M-b (reference),MLP,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-b (reference),MLP,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+C2 M-b (reference),MLP,MF-P2,2S_DV_1+B1_1,valve-bearing,0.5777777777777778,0.5777777777777778
+C2 M-b (reference),MLP,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.7333333333333332
+C2 M-b (reference),MLP,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-b (reference),MLP,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-b (reference),MLP,MF-P6,2S_DV_1+B1_2,valve-bearing,0.8666666666666666,0.8666666666666666
+C2 M-b (reference),MLP,MF-P7,2S_DV_2+B1_2,valve-bearing,0.3111111111111111,0.9333333333333332
+C2 M-b (reference),MLP,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-b (reference),MLP,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+C2 M-b (reference),MLP,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b (reference),MLP,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.8222222222222223
+C2 M-b (reference),MLP,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b (reference),MLP,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b (reference),MLP,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,1.0
+C2 M-b (reference),MLP,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.5111111111111112
+C2 M-b (reference),MLP,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.02222222222222222,0.02222222222222222
+C2 M-b (reference),MLP,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b (reference),CNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C2 M-b (reference),CNN,MF-P11,2S_DV_2+B1_3,valve-bearing,1.0,1.0
+C2 M-b (reference),CNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-b (reference),CNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.04444444444444444,0.1111111111111111
+C2 M-b (reference),CNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.911111111111111,0.911111111111111
+C2 M-b (reference),CNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.3555555555555555,0.911111111111111
+C2 M-b (reference),CNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-b (reference),CNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-b (reference),CNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.7555555555555556,0.7555555555555556
+C2 M-b (reference),CNN,MF-P7,2S_DV_2+B1_2,valve-bearing,1.0,1.0
+C2 M-b (reference),CNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.02222222222222222
+C2 M-b (reference),CNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.04444444444444444
+C2 M-b (reference),CNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b (reference),CNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.2222222222222222,1.0
+C2 M-b (reference),CNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.1111111111111111
+C2 M-b (reference),CNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b (reference),CNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.15555555555555553
+C2 M-b (reference),CNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.2888888888888889,0.9111111111111111
+C2 M-b (reference),CNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.15555555555555556,0.15555555555555556
+C2 M-b (reference),CNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b (reference),Dense,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C2 M-b (reference),Dense,MF-P11,2S_DV_2+B1_3,valve-bearing,0.35555555555555546,0.7555555555555554
+C2 M-b (reference),Dense,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.08888888888888888
+C2 M-b (reference),Dense,MF-P13,2S_DV_4+B1_3,valve-bearing,0.5333333333333333,0.5777777777777777
+C2 M-b (reference),Dense,MF-P2,2S_DV_1+B1_1,valve-bearing,0.7999999999999997,0.7999999999999997
+C2 M-b (reference),Dense,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.8666666666666666
+C2 M-b (reference),Dense,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-b (reference),Dense,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-b (reference),Dense,MF-P6,2S_DV_1+B1_2,valve-bearing,0.7333333333333333,0.7777777777777779
+C2 M-b (reference),Dense,MF-P7,2S_DV_2+B1_2,valve-bearing,0.15555555555555553,0.9777777777777777
+C2 M-b (reference),Dense,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-b (reference),Dense,MF-P9,2S_DV_4+B1_2,valve-bearing,0.06666666666666667,0.39999999999999997
+C2 M-b (reference),Dense,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b (reference),Dense,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.7777777777777775
+C2 M-b (reference),Dense,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b (reference),Dense,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b (reference),Dense,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.08888888888888888
+C2 M-b (reference),Dense,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.08888888888888888
+C2 M-b (reference),Dense,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.02222222222222222,0.02222222222222222
+C2 M-b (reference),Dense,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b (reference),GNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.1111111111111111,0.28888888888888886
+C2 M-b (reference),GNN,MF-P11,2S_DV_2+B1_3,valve-bearing,0.6444444444444445,1.0
+C2 M-b (reference),GNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-b (reference),GNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.5111111111111112,0.6444444444444444
+C2 M-b (reference),GNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.7555555555555553,0.7555555555555553
+C2 M-b (reference),GNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.9777777777777777
+C2 M-b (reference),GNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-b (reference),GNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-b (reference),GNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.8444444444444444,0.8666666666666667
+C2 M-b (reference),GNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.02222222222222222,1.0
+C2 M-b (reference),GNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-b (reference),GNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.28888888888888886
+C2 M-b (reference),GNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b (reference),GNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.04444444444444444,0.6000000000000001
+C2 M-b (reference),GNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b (reference),GNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b (reference),GNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b (reference),GNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.5555555555555556
+C2 M-b (reference),GNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b (reference),GNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+single faults only,RF,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+single faults only,RF,MF-P11,2S_DV_2+B1_3,valve-bearing,0.4,0.9333333333333333
+single faults only,RF,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+single faults only,RF,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+single faults only,RF,MF-P2,2S_DV_1+B1_1,valve-bearing,0.0,0.0
+single faults only,RF,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.0
+single faults only,RF,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+single faults only,RF,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+single faults only,RF,MF-P6,2S_DV_1+B1_2,valve-bearing,0.7555555555555556,0.7555555555555556
+single faults only,RF,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,1.0
+single faults only,RF,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+single faults only,RF,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+single faults only,RF,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+single faults only,RF,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.04444444444444444
+single faults only,RF,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+single faults only,RF,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+single faults only,RF,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.4222222222222223
+single faults only,RF,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.04444444444444444
+single faults only,RF,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+single faults only,RF,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+single faults only,MLP,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+single faults only,MLP,MF-P11,2S_DV_2+B1_3,valve-bearing,0.17777777777777776,0.17777777777777776
+single faults only,MLP,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+single faults only,MLP,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+single faults only,MLP,MF-P2,2S_DV_1+B1_1,valve-bearing,0.0,0.0
+single faults only,MLP,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.0
+single faults only,MLP,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+single faults only,MLP,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+single faults only,MLP,MF-P6,2S_DV_1+B1_2,valve-bearing,0.02222222222222222,0.02222222222222222
+single faults only,MLP,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,0.0
+single faults only,MLP,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+single faults only,MLP,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+single faults only,MLP,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+single faults only,MLP,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.08888888888888888,0.08888888888888888
+single faults only,MLP,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+single faults only,MLP,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+single faults only,MLP,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+single faults only,MLP,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.17777777777777776,0.28888888888888886
+single faults only,MLP,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+single faults only,MLP,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+single faults only,CNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+single faults only,CNN,MF-P11,2S_DV_2+B1_3,valve-bearing,0.0,0.0
+single faults only,CNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+single faults only,CNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+single faults only,CNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.0,0.0
+single faults only,CNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.0
+single faults only,CNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+single faults only,CNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+single faults only,CNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.0,0.0
+single faults only,CNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,0.0
+single faults only,CNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+single faults only,CNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+single faults only,CNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+single faults only,CNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.28888888888888886,0.28888888888888886
+single faults only,CNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+single faults only,CNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+single faults only,CNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+single faults only,CNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.0
+single faults only,CNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+single faults only,CNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+single faults only,Dense,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+single faults only,Dense,MF-P11,2S_DV_2+B1_3,valve-bearing,0.0,0.0
+single faults only,Dense,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+single faults only,Dense,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+single faults only,Dense,MF-P2,2S_DV_1+B1_1,valve-bearing,0.0,0.0
+single faults only,Dense,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.13333333333333333
+single faults only,Dense,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+single faults only,Dense,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+single faults only,Dense,MF-P6,2S_DV_1+B1_2,valve-bearing,0.0,0.0
+single faults only,Dense,MF-P7,2S_DV_2+B1_2,valve-bearing,0.04444444444444444,0.17777777777777776
+single faults only,Dense,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+single faults only,Dense,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+single faults only,Dense,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+single faults only,Dense,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.0
+single faults only,Dense,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+single faults only,Dense,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+single faults only,Dense,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+single faults only,Dense,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.0
+single faults only,Dense,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+single faults only,Dense,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+single faults only,GNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.4222222222222223,0.4222222222222223
+single faults only,GNN,MF-P11,2S_DV_2+B1_3,valve-bearing,0.6444444444444445,0.9555555555555555
+single faults only,GNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.6222222222222221,0.6222222222222221
+single faults only,GNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.5777777777777778,0.9777777777777777
+single faults only,GNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.3555555555555555,0.6
+single faults only,GNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.7555555555555554
+single faults only,GNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+single faults only,GNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+single faults only,GNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.6444444444444445,0.6444444444444445
+single faults only,GNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,0.9333333333333332
+single faults only,GNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+single faults only,GNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+single faults only,GNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+single faults only,GNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.1111111111111111,0.1111111111111111
+single faults only,GNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+single faults only,GNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+single faults only,GNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+single faults only,GNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.0
+single faults only,GNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+single faults only,GNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C1 random augmentation,RF,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C1 random augmentation,RF,MF-P11,2S_DV_2+B1_3,valve-bearing,0.0,1.0
+C1 random augmentation,RF,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C1 random augmentation,RF,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+C1 random augmentation,RF,MF-P2,2S_DV_1+B1_1,valve-bearing,0.0,0.0
+C1 random augmentation,RF,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.9333333333333333
+C1 random augmentation,RF,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C1 random augmentation,RF,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C1 random augmentation,RF,MF-P6,2S_DV_1+B1_2,valve-bearing,0.6666666666666666,0.7333333333333333
+C1 random augmentation,RF,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,1.0
+C1 random augmentation,RF,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C1 random augmentation,RF,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+C1 random augmentation,RF,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C1 random augmentation,RF,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,1.0
+C1 random augmentation,RF,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C1 random augmentation,RF,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C1 random augmentation,RF,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.6666666666666666
+C1 random augmentation,RF,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.5333333333333333,0.5333333333333333
+C1 random augmentation,RF,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C1 random augmentation,RF,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C1 random augmentation,MLP,MF-P10,2S_DV_1+B1_3,valve-bearing,0.22222222222222224,0.22222222222222224
+C1 random augmentation,MLP,MF-P11,2S_DV_2+B1_3,valve-bearing,0.7777777777777776,0.7777777777777776
+C1 random augmentation,MLP,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C1 random augmentation,MLP,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+C1 random augmentation,MLP,MF-P2,2S_DV_1+B1_1,valve-bearing,1.0,1.0
+C1 random augmentation,MLP,MF-P3,2S_DV_2+B1_1,valve-bearing,0.7555555555555554,0.9111111111111111
+C1 random augmentation,MLP,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C1 random augmentation,MLP,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C1 random augmentation,MLP,MF-P6,2S_DV_1+B1_2,valve-bearing,0.8666666666666667,0.8666666666666667
+C1 random augmentation,MLP,MF-P7,2S_DV_2+B1_2,valve-bearing,0.5333333333333333,0.711111111111111
+C1 random augmentation,MLP,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C1 random augmentation,MLP,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+C1 random augmentation,MLP,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C1 random augmentation,MLP,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.6,0.6666666666666665
+C1 random augmentation,MLP,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C1 random augmentation,MLP,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C1 random augmentation,MLP,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.6666666666666665
+C1 random augmentation,MLP,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.6888888888888888,0.8444444444444443
+C1 random augmentation,MLP,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.08888888888888888,0.1111111111111111
+C1 random augmentation,MLP,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C1 random augmentation,CNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.02222222222222222,0.02222222222222222
+C1 random augmentation,CNN,MF-P11,2S_DV_2+B1_3,valve-bearing,1.0,1.0
+C1 random augmentation,CNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C1 random augmentation,CNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.15555555555555553,0.31111111111111106
+C1 random augmentation,CNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.4222222222222223,0.4222222222222223
+C1 random augmentation,CNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.2,0.911111111111111
+C1 random augmentation,CNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C1 random augmentation,CNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C1 random augmentation,CNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.5333333333333333,0.5333333333333333
+C1 random augmentation,CNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.9777777777777777,0.9777777777777777
+C1 random augmentation,CNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C1 random augmentation,CNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+C1 random augmentation,CNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C1 random augmentation,CNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.4666666666666666,0.7333333333333331
+C1 random augmentation,CNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C1 random augmentation,CNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C1 random augmentation,CNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.08888888888888888
+C1 random augmentation,CNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.13333333333333333,0.9111111111111111
+C1 random augmentation,CNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.02222222222222222,0.02222222222222222
+C1 random augmentation,CNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C1 random augmentation,Dense,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C1 random augmentation,Dense,MF-P11,2S_DV_2+B1_3,valve-bearing,0.31111111111111106,0.9333333333333333
+C1 random augmentation,Dense,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C1 random augmentation,Dense,MF-P13,2S_DV_4+B1_3,valve-bearing,0.24444444444444446,0.24444444444444446
+C1 random augmentation,Dense,MF-P2,2S_DV_1+B1_1,valve-bearing,0.22222222222222227,0.22222222222222227
+C1 random augmentation,Dense,MF-P3,2S_DV_2+B1_1,valve-bearing,0.13333333333333333,0.6444444444444444
+C1 random augmentation,Dense,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C1 random augmentation,Dense,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C1 random augmentation,Dense,MF-P6,2S_DV_1+B1_2,valve-bearing,0.4666666666666665,0.4666666666666665
+C1 random augmentation,Dense,MF-P7,2S_DV_2+B1_2,valve-bearing,0.06666666666666667,0.9111111111111111
+C1 random augmentation,Dense,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C1 random augmentation,Dense,MF-P9,2S_DV_4+B1_2,valve-bearing,0.02222222222222222,0.02222222222222222
+C1 random augmentation,Dense,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C1 random augmentation,Dense,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.5111111111111111
+C1 random augmentation,Dense,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C1 random augmentation,Dense,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C1 random augmentation,Dense,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.02222222222222222
+C1 random augmentation,Dense,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.13333333333333333
+C1 random augmentation,Dense,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C1 random augmentation,Dense,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C1 random augmentation,GNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C1 random augmentation,GNN,MF-P11,2S_DV_2+B1_3,valve-bearing,0.1111111111111111,1.0
+C1 random augmentation,GNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.33333333333333326,0.33333333333333326
+C1 random augmentation,GNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.2888888888888889,0.35555555555555546
+C1 random augmentation,GNN,MF-P2,2S_DV_1+B1_1,valve-bearing,1.0,1.0
+C1 random augmentation,GNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,1.0
+C1 random augmentation,GNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C1 random augmentation,GNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C1 random augmentation,GNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.7777777777777778,0.8888888888888888
+C1 random augmentation,GNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,1.0
+C1 random augmentation,GNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C1 random augmentation,GNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.04444444444444444
+C1 random augmentation,GNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C1 random augmentation,GNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.02222222222222222,0.6888888888888888
+C1 random augmentation,GNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C1 random augmentation,GNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C1 random augmentation,GNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+C1 random augmentation,GNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,1.0
+C1 random augmentation,GNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C1 random augmentation,GNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-a,RF,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C2 M-a,RF,MF-P11,2S_DV_2+B1_3,valve-bearing,0.0,0.9777777777777777
+C2 M-a,RF,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-a,RF,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+C2 M-a,RF,MF-P2,2S_DV_1+B1_1,valve-bearing,0.0,0.0
+C2 M-a,RF,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.6888888888888888
+C2 M-a,RF,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-a,RF,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-a,RF,MF-P6,2S_DV_1+B1_2,valve-bearing,0.7333333333333333,0.7333333333333333
+C2 M-a,RF,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,1.0
+C2 M-a,RF,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-a,RF,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+C2 M-a,RF,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-a,RF,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,1.0
+C2 M-a,RF,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-a,RF,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-a,RF,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.4666666666666667
+C2 M-a,RF,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.5777777777777777,0.5777777777777777
+C2 M-a,RF,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-a,RF,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-a,MLP,MF-P10,2S_DV_1+B1_3,valve-bearing,0.04444444444444444,0.04444444444444444
+C2 M-a,MLP,MF-P11,2S_DV_2+B1_3,valve-bearing,0.6222222222222223,0.888888888888889
+C2 M-a,MLP,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-a,MLP,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+C2 M-a,MLP,MF-P2,2S_DV_1+B1_1,valve-bearing,0.8222222222222222,0.8222222222222222
+C2 M-a,MLP,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.9777777777777777
+C2 M-a,MLP,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-a,MLP,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-a,MLP,MF-P6,2S_DV_1+B1_2,valve-bearing,0.7777777777777778,0.7777777777777778
+C2 M-a,MLP,MF-P7,2S_DV_2+B1_2,valve-bearing,0.2444444444444445,0.6222222222222221
+C2 M-a,MLP,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-a,MLP,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+C2 M-a,MLP,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-a,MLP,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.9555555555555555
+C2 M-a,MLP,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-a,MLP,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-a,MLP,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.5111111111111111
+C2 M-a,MLP,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.7333333333333333
+C2 M-a,MLP,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.04444444444444444,0.04444444444444444
+C2 M-a,MLP,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-a,CNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C2 M-a,CNN,MF-P11,2S_DV_2+B1_3,valve-bearing,1.0,1.0
+C2 M-a,CNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-a,CNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.02222222222222222,0.33333333333333326
+C2 M-a,CNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.35555555555555557,0.35555555555555557
+C2 M-a,CNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.26666666666666666,0.9333333333333332
+C2 M-a,CNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-a,CNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-a,CNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.3777777777777777,0.3777777777777777
+C2 M-a,CNN,MF-P7,2S_DV_2+B1_2,valve-bearing,1.0,1.0
+C2 M-a,CNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-a,CNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+C2 M-a,CNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-a,CNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.26666666666666666,0.6
+C2 M-a,CNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-a,CNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-a,CNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.13333333333333333
+C2 M-a,CNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.4888888888888888,0.8444444444444444
+C2 M-a,CNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-a,CNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-a,Dense,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C2 M-a,Dense,MF-P11,2S_DV_2+B1_3,valve-bearing,0.48888888888888876,0.7999999999999997
+C2 M-a,Dense,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-a,Dense,MF-P13,2S_DV_4+B1_3,valve-bearing,0.3777777777777777,0.46666666666666656
+C2 M-a,Dense,MF-P2,2S_DV_1+B1_1,valve-bearing,0.6444444444444444,0.6444444444444444
+C2 M-a,Dense,MF-P3,2S_DV_2+B1_1,valve-bearing,0.1111111111111111,0.4444444444444444
+C2 M-a,Dense,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-a,Dense,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-a,Dense,MF-P6,2S_DV_1+B1_2,valve-bearing,0.7555555555555554,0.8
+C2 M-a,Dense,MF-P7,2S_DV_2+B1_2,valve-bearing,0.3777777777777778,0.7777777777777778
+C2 M-a,Dense,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-a,Dense,MF-P9,2S_DV_4+B1_2,valve-bearing,0.1111111111111111,0.1111111111111111
+C2 M-a,Dense,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-a,Dense,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.28888888888888886
+C2 M-a,Dense,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-a,Dense,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-a,Dense,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-a,Dense,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.46666666666666673
+C2 M-a,Dense,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-a,Dense,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-a,GNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.31111111111111106,0.31111111111111106
+C2 M-a,GNN,MF-P11,2S_DV_2+B1_3,valve-bearing,0.02222222222222222,1.0
+C2 M-a,GNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.33333333333333326
+C2 M-a,GNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.6222222222222221,0.6666666666666665
+C2 M-a,GNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.8222222222222222,0.8222222222222222
+C2 M-a,GNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,1.0
+C2 M-a,GNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-a,GNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-a,GNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.8666666666666667,0.9111111111111111
+C2 M-a,GNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,1.0
+C2 M-a,GNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-a,GNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+C2 M-a,GNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-a,GNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.6444444444444444
+C2 M-a,GNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-a,GNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-a,GNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.26666666666666666,0.26666666666666666
+C2 M-a,GNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.5111111111111112
+C2 M-a,GNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-a,GNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-c,RF,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C2 M-c,RF,MF-P11,2S_DV_2+B1_3,valve-bearing,0.6,1.0
+C2 M-c,RF,MF-P12,2S_DV_3+B1_3,valve-bearing,0.4,0.4
+C2 M-c,RF,MF-P13,2S_DV_4+B1_3,valve-bearing,0.7333333333333333,1.0
+C2 M-c,RF,MF-P2,2S_DV_1+B1_1,valve-bearing,0.06666666666666667,0.06666666666666667
+C2 M-c,RF,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.8666666666666667
+C2 M-c,RF,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-c,RF,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-c,RF,MF-P6,2S_DV_1+B1_2,valve-bearing,0.8,0.8
+C2 M-c,RF,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,1.0
+C2 M-c,RF,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-c,RF,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+C2 M-c,RF,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-c,RF,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,1.0
+C2 M-c,RF,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-c,RF,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-c,RF,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.02222222222222222
+C2 M-c,RF,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.0
+C2 M-c,RF,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-c,RF,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-c,MLP,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C2 M-c,MLP,MF-P11,2S_DV_2+B1_3,valve-bearing,0.7555555555555553,0.7555555555555553
+C2 M-c,MLP,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-c,MLP,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+C2 M-c,MLP,MF-P2,2S_DV_1+B1_1,valve-bearing,0.5777777777777778,0.5777777777777778
+C2 M-c,MLP,MF-P3,2S_DV_2+B1_1,valve-bearing,0.04444444444444444,0.6
+C2 M-c,MLP,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-c,MLP,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-c,MLP,MF-P6,2S_DV_1+B1_2,valve-bearing,0.7777777777777778,0.7777777777777778
+C2 M-c,MLP,MF-P7,2S_DV_2+B1_2,valve-bearing,0.06666666666666667,0.2
+C2 M-c,MLP,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-c,MLP,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+C2 M-c,MLP,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-c,MLP,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.6444444444444444,0.7999999999999999
+C2 M-c,MLP,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-c,MLP,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-c,MLP,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.9333333333333333
+C2 M-c,MLP,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.4444444444444445
+C2 M-c,MLP,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.06666666666666667,0.06666666666666667
+C2 M-c,MLP,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-c,CNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C2 M-c,CNN,MF-P11,2S_DV_2+B1_3,valve-bearing,1.0,1.0
+C2 M-c,CNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-c,CNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.02222222222222222,0.22222222222222224
+C2 M-c,CNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.6000000000000001,0.6000000000000001
+C2 M-c,CNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.04444444444444444,0.9555555555555556
+C2 M-c,CNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-c,CNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-c,CNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.5333333333333333,0.5333333333333333
+C2 M-c,CNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,0.6222222222222222
+C2 M-c,CNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-c,CNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+C2 M-c,CNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-c,CNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.8444444444444446,0.8666666666666667
+C2 M-c,CNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-c,CNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-c,CNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.26666666666666666
+C2 M-c,CNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.15555555555555556
+C2 M-c,CNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.06666666666666667,0.06666666666666667
+C2 M-c,CNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-c,Dense,MF-P10,2S_DV_1+B1_3,valve-bearing,0.31111111111111106,0.31111111111111106
+C2 M-c,Dense,MF-P11,2S_DV_2+B1_3,valve-bearing,0.5555555555555555,0.8222222222222222
+C2 M-c,Dense,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-c,Dense,MF-P13,2S_DV_4+B1_3,valve-bearing,0.4222222222222223,0.6
+C2 M-c,Dense,MF-P2,2S_DV_1+B1_1,valve-bearing,0.5555555555555555,0.5555555555555555
+C2 M-c,Dense,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.7555555555555553
+C2 M-c,Dense,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-c,Dense,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-c,Dense,MF-P6,2S_DV_1+B1_2,valve-bearing,0.7999999999999999,0.7999999999999999
+C2 M-c,Dense,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,0.8
+C2 M-c,Dense,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-c,Dense,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+C2 M-c,Dense,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-c,Dense,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.33333333333333326,0.33333333333333326
+C2 M-c,Dense,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-c,Dense,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-c,Dense,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.22222222222222224,0.22222222222222224
+C2 M-c,Dense,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.04444444444444444
+C2 M-c,Dense,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-c,Dense,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-c,GNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C2 M-c,GNN,MF-P11,2S_DV_2+B1_3,valve-bearing,0.711111111111111,1.0
+C2 M-c,GNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.3777777777777777,0.3777777777777777
+C2 M-c,GNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.6222222222222221,1.0
+C2 M-c,GNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.2,0.2
+C2 M-c,GNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.8444444444444443
+C2 M-c,GNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-c,GNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-c,GNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.6888888888888888,0.6888888888888888
+C2 M-c,GNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,1.0
+C2 M-c,GNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-c,GNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+C2 M-c,GNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-c,GNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.26666666666666666,0.26666666666666666
+C2 M-c,GNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-c,GNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-c,GNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-c,GNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.06666666666666667
+C2 M-c,GNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-c,GNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-d,RF,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C2 M-d,RF,MF-P11,2S_DV_2+B1_3,valve-bearing,1.0,1.0
+C2 M-d,RF,MF-P12,2S_DV_3+B1_3,valve-bearing,0.6666666666666666,1.0
+C2 M-d,RF,MF-P13,2S_DV_4+B1_3,valve-bearing,0.48888888888888893,0.8444444444444444
+C2 M-d,RF,MF-P2,2S_DV_1+B1_1,valve-bearing,0.9333333333333333,0.9333333333333333
+C2 M-d,RF,MF-P3,2S_DV_2+B1_1,valve-bearing,0.06666666666666667,1.0
+C2 M-d,RF,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-d,RF,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-d,RF,MF-P6,2S_DV_1+B1_2,valve-bearing,1.0,1.0
+C2 M-d,RF,MF-P7,2S_DV_2+B1_2,valve-bearing,0.9555555555555555,1.0
+C2 M-d,RF,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-d,RF,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.04444444444444444
+C2 M-d,RF,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-d,RF,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.6444444444444444,1.0
+C2 M-d,RF,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-d,RF,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-d,RF,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.06666666666666667
+C2 M-d,RF,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.9333333333333333,0.9333333333333333
+C2 M-d,RF,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-d,RF,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-d,MLP,MF-P10,2S_DV_1+B1_3,valve-bearing,0.4,0.4
+C2 M-d,MLP,MF-P11,2S_DV_2+B1_3,valve-bearing,1.0,1.0
+C2 M-d,MLP,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-d,MLP,MF-P13,2S_DV_4+B1_3,valve-bearing,0.22222222222222224,0.22222222222222224
+C2 M-d,MLP,MF-P2,2S_DV_1+B1_1,valve-bearing,0.7777777777777775,0.7777777777777775
+C2 M-d,MLP,MF-P3,2S_DV_2+B1_1,valve-bearing,0.2222222222222222,0.7555555555555554
+C2 M-d,MLP,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-d,MLP,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-d,MLP,MF-P6,2S_DV_1+B1_2,valve-bearing,0.9333333333333333,0.9333333333333333
+C2 M-d,MLP,MF-P7,2S_DV_2+B1_2,valve-bearing,0.911111111111111,1.0
+C2 M-d,MLP,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-d,MLP,MF-P9,2S_DV_4+B1_2,valve-bearing,0.04444444444444444,0.13333333333333333
+C2 M-d,MLP,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-d,MLP,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.4888888888888889
+C2 M-d,MLP,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-d,MLP,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-d,MLP,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.42222222222222217
+C2 M-d,MLP,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.13333333333333333,0.8222222222222222
+C2 M-d,MLP,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.17777777777777776,0.17777777777777776
+C2 M-d,MLP,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-d,CNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.02222222222222222,0.02222222222222222
+C2 M-d,CNN,MF-P11,2S_DV_2+B1_3,valve-bearing,1.0,1.0
+C2 M-d,CNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.31111111111111106
+C2 M-d,CNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.8888888888888888
+C2 M-d,CNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.8444444444444443,0.8444444444444443
+C2 M-d,CNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.5777777777777778,0.9555555555555555
+C2 M-d,CNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-d,CNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-d,CNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.7777777777777778,0.7777777777777778
+C2 M-d,CNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.8444444444444444,0.8444444444444444
+C2 M-d,CNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.6444444444444444
+C2 M-d,CNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.04444444444444444,1.0
+C2 M-d,CNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-d,CNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.35555555555555546,0.8
+C2 M-d,CNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-d,CNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-d,CNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.1111111111111111
+C2 M-d,CNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.33333333333333326
+C2 M-d,CNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-d,CNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-d,Dense,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C2 M-d,Dense,MF-P11,2S_DV_2+B1_3,valve-bearing,0.6666666666666666,0.8222222222222222
+C2 M-d,Dense,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.33333333333333326
+C2 M-d,Dense,MF-P13,2S_DV_4+B1_3,valve-bearing,0.7777777777777778,0.911111111111111
+C2 M-d,Dense,MF-P2,2S_DV_1+B1_1,valve-bearing,0.8222222222222222,0.8222222222222222
+C2 M-d,Dense,MF-P3,2S_DV_2+B1_1,valve-bearing,0.26666666666666666,0.9777777777777777
+C2 M-d,Dense,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.02222222222222222
+C2 M-d,Dense,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-d,Dense,MF-P6,2S_DV_1+B1_2,valve-bearing,0.9555555555555555,0.9555555555555555
+C2 M-d,Dense,MF-P7,2S_DV_2+B1_2,valve-bearing,0.7111111111111109,1.0
+C2 M-d,Dense,MF-P8,2S_DV_3+B1_2,valve-bearing,0.08888888888888888,0.3333333333333333
+C2 M-d,Dense,MF-P9,2S_DV_4+B1_2,valve-bearing,0.5111111111111112,0.9777777777777777
+C2 M-d,Dense,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-d,Dense,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.17777777777777776
+C2 M-d,Dense,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-d,Dense,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-d,Dense,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.35555555555555546
+C2 M-d,Dense,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.04444444444444444
+C2 M-d,Dense,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.02222222222222222,0.02222222222222222
+C2 M-d,Dense,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-d,GNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.22222222222222224,0.22222222222222224
+C2 M-d,GNN,MF-P11,2S_DV_2+B1_3,valve-bearing,0.7555555555555556,1.0
+C2 M-d,GNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.06666666666666667
+C2 M-d,GNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.6,0.9333333333333333
+C2 M-d,GNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.8222222222222221,0.8222222222222221
+C2 M-d,GNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.08888888888888888,0.8444444444444443
+C2 M-d,GNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-d,GNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-d,GNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.8666666666666667,0.8666666666666667
+C2 M-d,GNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.04444444444444444,1.0
+C2 M-d,GNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-d,GNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.4222222222222222
+C2 M-d,GNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-d,GNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.0
+C2 M-d,GNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-d,GNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-d,GNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.02222222222222222,0.02222222222222222
+C2 M-d,GNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.3777777777777777
+C2 M-d,GNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-d,GNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-e,RF,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C2 M-e,RF,MF-P11,2S_DV_2+B1_3,valve-bearing,0.0,1.0
+C2 M-e,RF,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-e,RF,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+C2 M-e,RF,MF-P2,2S_DV_1+B1_1,valve-bearing,0.0,0.0
+C2 M-e,RF,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,1.0
+C2 M-e,RF,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-e,RF,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-e,RF,MF-P6,2S_DV_1+B1_2,valve-bearing,0.5333333333333333,0.5333333333333333
+C2 M-e,RF,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,1.0
+C2 M-e,RF,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-e,RF,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+C2 M-e,RF,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-e,RF,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.5333333333333333
+C2 M-e,RF,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-e,RF,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-e,RF,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-e,RF,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.6666666666666666,0.6666666666666666
+C2 M-e,RF,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-e,RF,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-e,MLP,MF-P10,2S_DV_1+B1_3,valve-bearing,0.06666666666666667,0.06666666666666667
+C2 M-e,MLP,MF-P11,2S_DV_2+B1_3,valve-bearing,0.8444444444444443,1.0
+C2 M-e,MLP,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-e,MLP,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+C2 M-e,MLP,MF-P2,2S_DV_1+B1_1,valve-bearing,0.31111111111111106,0.31111111111111106
+C2 M-e,MLP,MF-P3,2S_DV_2+B1_1,valve-bearing,0.22222222222222224,0.6888888888888888
+C2 M-e,MLP,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-e,MLP,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-e,MLP,MF-P6,2S_DV_1+B1_2,valve-bearing,0.4222222222222223,0.4222222222222223
+C2 M-e,MLP,MF-P7,2S_DV_2+B1_2,valve-bearing,0.5777777777777777,0.9333333333333332
+C2 M-e,MLP,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-e,MLP,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+C2 M-e,MLP,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-e,MLP,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.7111111111111109
+C2 M-e,MLP,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-e,MLP,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-e,MLP,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.06666666666666667
+C2 M-e,MLP,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.02222222222222222,0.7333333333333333
+C2 M-e,MLP,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-e,MLP,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-e,CNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.03333333333333333,0.03333333333333333
+C2 M-e,CNN,MF-P11,2S_DV_2+B1_3,valve-bearing,1.0,1.0
+C2 M-e,CNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.06666666666666667
+C2 M-e,CNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.36666666666666664
+C2 M-e,CNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.03333333333333333,0.03333333333333333
+C2 M-e,CNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.3,0.5
+C2 M-e,CNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-e,CNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-e,CNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.7,0.7
+C2 M-e,CNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.8666666666666667,0.9333333333333333
+C2 M-e,CNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-e,CNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.3333333333333333,0.3333333333333333
+C2 M-e,CNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-e,CNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.4666666666666667,0.8333333333333334
+C2 M-e,CNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-e,CNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-e,CNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.36666666666666664
+C2 M-e,CNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.16666666666666666,0.6666666666666666
+C2 M-e,CNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-e,CNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-e,Dense,MF-P10,2S_DV_1+B1_3,valve-bearing,0.03333333333333333,0.03333333333333333
+C2 M-e,Dense,MF-P11,2S_DV_2+B1_3,valve-bearing,0.0,1.0
+C2 M-e,Dense,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-e,Dense,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+C2 M-e,Dense,MF-P2,2S_DV_1+B1_1,valve-bearing,0.5666666666666667,0.7666666666666667
+C2 M-e,Dense,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.9666666666666667
+C2 M-e,Dense,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-e,Dense,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-e,Dense,MF-P6,2S_DV_1+B1_2,valve-bearing,0.9666666666666667,0.9666666666666667
+C2 M-e,Dense,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,1.0
+C2 M-e,Dense,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-e,Dense,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+C2 M-e,Dense,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-e,Dense,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.4
+C2 M-e,Dense,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-e,Dense,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-e,Dense,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.6666666666666666
+C2 M-e,Dense,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.1
+C2 M-e,Dense,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-e,Dense,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-e,GNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.03333333333333333,0.06666666666666667
+C2 M-e,GNN,MF-P11,2S_DV_2+B1_3,valve-bearing,0.06666666666666667,1.0
+C2 M-e,GNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-e,GNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.1,0.3333333333333333
+C2 M-e,GNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.8666666666666667,0.8666666666666667
+C2 M-e,GNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.8
+C2 M-e,GNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-e,GNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-e,GNN,MF-P6,2S_DV_1+B1_2,valve-bearing,1.0,1.0
+C2 M-e,GNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,1.0
+C2 M-e,GNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-e,GNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.03333333333333333
+C2 M-e,GNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-e,GNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.8
+C2 M-e,GNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-e,GNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-e,GNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.06666666666666667,0.6
+C2 M-e,GNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.4,0.7333333333333333
+C2 M-e,GNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-e,GNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b random pairing,RF,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C2 M-b random pairing,RF,MF-P11,2S_DV_2+B1_3,valve-bearing,0.0,1.0
+C2 M-b random pairing,RF,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-b random pairing,RF,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+C2 M-b random pairing,RF,MF-P2,2S_DV_1+B1_1,valve-bearing,0.0,0.0
+C2 M-b random pairing,RF,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,1.0
+C2 M-b random pairing,RF,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-b random pairing,RF,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-b random pairing,RF,MF-P6,2S_DV_1+B1_2,valve-bearing,0.8666666666666667,0.8666666666666667
+C2 M-b random pairing,RF,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,1.0
+C2 M-b random pairing,RF,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-b random pairing,RF,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+C2 M-b random pairing,RF,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b random pairing,RF,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,1.0
+C2 M-b random pairing,RF,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b random pairing,RF,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b random pairing,RF,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.13333333333333333
+C2 M-b random pairing,RF,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.6,0.6
+C2 M-b random pairing,RF,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b random pairing,RF,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b random pairing,MLP,MF-P10,2S_DV_1+B1_3,valve-bearing,0.1,0.1
+C2 M-b random pairing,MLP,MF-P11,2S_DV_2+B1_3,valve-bearing,0.5333333333333333,1.0
+C2 M-b random pairing,MLP,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-b random pairing,MLP,MF-P13,2S_DV_4+B1_3,valve-bearing,0.03333333333333333,0.03333333333333333
+C2 M-b random pairing,MLP,MF-P2,2S_DV_1+B1_1,valve-bearing,0.6666666666666666,0.6666666666666666
+C2 M-b random pairing,MLP,MF-P3,2S_DV_2+B1_1,valve-bearing,0.3333333333333333,0.9
+C2 M-b random pairing,MLP,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-b random pairing,MLP,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-b random pairing,MLP,MF-P6,2S_DV_1+B1_2,valve-bearing,0.9,0.9
+C2 M-b random pairing,MLP,MF-P7,2S_DV_2+B1_2,valve-bearing,0.7666666666666667,0.9666666666666667
+C2 M-b random pairing,MLP,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-b random pairing,MLP,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+C2 M-b random pairing,MLP,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b random pairing,MLP,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.9666666666666667
+C2 M-b random pairing,MLP,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b random pairing,MLP,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b random pairing,MLP,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.36666666666666664
+C2 M-b random pairing,MLP,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.5
+C2 M-b random pairing,MLP,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.06666666666666667,0.06666666666666667
+C2 M-b random pairing,MLP,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b random pairing,CNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C2 M-b random pairing,CNN,MF-P11,2S_DV_2+B1_3,valve-bearing,1.0,1.0
+C2 M-b random pairing,CNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-b random pairing,CNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.5666666666666667,0.7
+C2 M-b random pairing,CNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.9666666666666667,0.9666666666666667
+C2 M-b random pairing,CNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.3333333333333333,1.0
+C2 M-b random pairing,CNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-b random pairing,CNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-b random pairing,CNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.26666666666666666,0.26666666666666666
+C2 M-b random pairing,CNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.8666666666666667,1.0
+C2 M-b random pairing,CNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-b random pairing,CNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+C2 M-b random pairing,CNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b random pairing,CNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.6333333333333333
+C2 M-b random pairing,CNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.06666666666666667
+C2 M-b random pairing,CNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b random pairing,CNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b random pairing,CNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.9666666666666667
+C2 M-b random pairing,CNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b random pairing,CNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b random pairing,Dense,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C2 M-b random pairing,Dense,MF-P11,2S_DV_2+B1_3,valve-bearing,0.4,1.0
+C2 M-b random pairing,Dense,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.43333333333333335
+C2 M-b random pairing,Dense,MF-P13,2S_DV_4+B1_3,valve-bearing,0.7,0.7
+C2 M-b random pairing,Dense,MF-P2,2S_DV_1+B1_1,valve-bearing,0.36666666666666664,0.36666666666666664
+C2 M-b random pairing,Dense,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.8666666666666667
+C2 M-b random pairing,Dense,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-b random pairing,Dense,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-b random pairing,Dense,MF-P6,2S_DV_1+B1_2,valve-bearing,0.7666666666666667,0.7666666666666667
+C2 M-b random pairing,Dense,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,0.9666666666666667
+C2 M-b random pairing,Dense,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-b random pairing,Dense,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+C2 M-b random pairing,Dense,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b random pairing,Dense,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.16666666666666666,0.4
+C2 M-b random pairing,Dense,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b random pairing,Dense,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b random pairing,Dense,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.13333333333333333
+C2 M-b random pairing,Dense,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.9333333333333333
+C2 M-b random pairing,Dense,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b random pairing,Dense,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b random pairing,GNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.13333333333333333
+C2 M-b random pairing,GNN,MF-P11,2S_DV_2+B1_3,valve-bearing,0.06666666666666667,1.0
+C2 M-b random pairing,GNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-b random pairing,GNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.5,0.5
+C2 M-b random pairing,GNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.9333333333333333,0.9333333333333333
+C2 M-b random pairing,GNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,1.0
+C2 M-b random pairing,GNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-b random pairing,GNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-b random pairing,GNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.8333333333333334,0.8666666666666667
+C2 M-b random pairing,GNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,1.0
+C2 M-b random pairing,GNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-b random pairing,GNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.13333333333333333
+C2 M-b random pairing,GNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b random pairing,GNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.03333333333333333,0.9666666666666667
+C2 M-b random pairing,GNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b random pairing,GNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b random pairing,GNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b random pairing,GNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.26666666666666666,1.0
+C2 M-b random pairing,GNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b random pairing,GNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b without lower bound,RF,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C2 M-b without lower bound,RF,MF-P11,2S_DV_2+B1_3,valve-bearing,0.0,0.9333333333333333
+C2 M-b without lower bound,RF,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-b without lower bound,RF,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+C2 M-b without lower bound,RF,MF-P2,2S_DV_1+B1_1,valve-bearing,0.0,0.0
+C2 M-b without lower bound,RF,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,1.0
+C2 M-b without lower bound,RF,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-b without lower bound,RF,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-b without lower bound,RF,MF-P6,2S_DV_1+B1_2,valve-bearing,0.4,0.4
+C2 M-b without lower bound,RF,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,1.0
+C2 M-b without lower bound,RF,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-b without lower bound,RF,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+C2 M-b without lower bound,RF,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b without lower bound,RF,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.06666666666666667
+C2 M-b without lower bound,RF,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b without lower bound,RF,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b without lower bound,RF,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b without lower bound,RF,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.6,0.6
+C2 M-b without lower bound,RF,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b without lower bound,RF,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b without lower bound,MLP,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C2 M-b without lower bound,MLP,MF-P11,2S_DV_2+B1_3,valve-bearing,0.7666666666666667,0.9333333333333333
+C2 M-b without lower bound,MLP,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-b without lower bound,MLP,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+C2 M-b without lower bound,MLP,MF-P2,2S_DV_1+B1_1,valve-bearing,0.03333333333333333,0.03333333333333333
+C2 M-b without lower bound,MLP,MF-P3,2S_DV_2+B1_1,valve-bearing,0.06666666666666667,0.5333333333333333
+C2 M-b without lower bound,MLP,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-b without lower bound,MLP,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-b without lower bound,MLP,MF-P6,2S_DV_1+B1_2,valve-bearing,0.16666666666666666,0.16666666666666666
+C2 M-b without lower bound,MLP,MF-P7,2S_DV_2+B1_2,valve-bearing,0.2,0.5666666666666667
+C2 M-b without lower bound,MLP,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-b without lower bound,MLP,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+C2 M-b without lower bound,MLP,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b without lower bound,MLP,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.16666666666666666
+C2 M-b without lower bound,MLP,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b without lower bound,MLP,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b without lower bound,MLP,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b without lower bound,MLP,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.1,0.9333333333333333
+C2 M-b without lower bound,MLP,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b without lower bound,MLP,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b without lower bound,CNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C2 M-b without lower bound,CNN,MF-P11,2S_DV_2+B1_3,valve-bearing,1.0,1.0
+C2 M-b without lower bound,CNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-b without lower bound,CNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+C2 M-b without lower bound,CNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.13333333333333333,0.13333333333333333
+C2 M-b without lower bound,CNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.13333333333333333
+C2 M-b without lower bound,CNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-b without lower bound,CNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-b without lower bound,CNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.6,0.6
+C2 M-b without lower bound,CNN,MF-P7,2S_DV_2+B1_2,valve-bearing,1.0,1.0
+C2 M-b without lower bound,CNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-b without lower bound,CNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+C2 M-b without lower bound,CNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b without lower bound,CNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.3,0.3333333333333333
+C2 M-b without lower bound,CNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b without lower bound,CNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b without lower bound,CNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b without lower bound,CNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.4666666666666667
+C2 M-b without lower bound,CNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b without lower bound,CNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b without lower bound,Dense,MF-P10,2S_DV_1+B1_3,valve-bearing,0.7,0.7
+C2 M-b without lower bound,Dense,MF-P11,2S_DV_2+B1_3,valve-bearing,0.9666666666666667,1.0
+C2 M-b without lower bound,Dense,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-b without lower bound,Dense,MF-P13,2S_DV_4+B1_3,valve-bearing,0.43333333333333335,0.7666666666666667
+C2 M-b without lower bound,Dense,MF-P2,2S_DV_1+B1_1,valve-bearing,0.5666666666666667,0.5666666666666667
+C2 M-b without lower bound,Dense,MF-P3,2S_DV_2+B1_1,valve-bearing,0.36666666666666664,1.0
+C2 M-b without lower bound,Dense,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-b without lower bound,Dense,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-b without lower bound,Dense,MF-P6,2S_DV_1+B1_2,valve-bearing,0.5666666666666667,0.5666666666666667
+C2 M-b without lower bound,Dense,MF-P7,2S_DV_2+B1_2,valve-bearing,0.06666666666666667,1.0
+C2 M-b without lower bound,Dense,MF-P8,2S_DV_3+B1_2,valve-bearing,0.03333333333333333,0.03333333333333333
+C2 M-b without lower bound,Dense,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.1
+C2 M-b without lower bound,Dense,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b without lower bound,Dense,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.2,0.2
+C2 M-b without lower bound,Dense,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b without lower bound,Dense,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b without lower bound,Dense,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.4666666666666667
+C2 M-b without lower bound,Dense,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.4666666666666667
+C2 M-b without lower bound,Dense,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b without lower bound,Dense,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b without lower bound,GNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C2 M-b without lower bound,GNN,MF-P11,2S_DV_2+B1_3,valve-bearing,0.0,1.0
+C2 M-b without lower bound,GNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-b without lower bound,GNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.1
+C2 M-b without lower bound,GNN,MF-P2,2S_DV_1+B1_1,valve-bearing,1.0,1.0
+C2 M-b without lower bound,GNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,1.0
+C2 M-b without lower bound,GNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-b without lower bound,GNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-b without lower bound,GNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.9333333333333333,0.9333333333333333
+C2 M-b without lower bound,GNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,1.0
+C2 M-b without lower bound,GNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-b without lower bound,GNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.03333333333333333
+C2 M-b without lower bound,GNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b without lower bound,GNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,1.0
+C2 M-b without lower bound,GNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b without lower bound,GNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b without lower bound,GNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.26666666666666666,0.36666666666666664
+C2 M-b without lower bound,GNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.7333333333333333
+C2 M-b without lower bound,GNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b without lower bound,GNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",RF,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",RF,MF-P11,2S_DV_2+B1_3,valve-bearing,0.0,0.3333333333333333
+"C2 M-b, test pair structures removed",RF,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",RF,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",RF,MF-P2,2S_DV_1+B1_1,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",RF,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.2
+"C2 M-b, test pair structures removed",RF,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",RF,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",RF,MF-P6,2S_DV_1+B1_2,valve-bearing,0.8,0.8
+"C2 M-b, test pair structures removed",RF,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,1.0
+"C2 M-b, test pair structures removed",RF,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",RF,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",RF,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",RF,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",RF,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",RF,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",RF,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.4
+"C2 M-b, test pair structures removed",RF,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.4666666666666667,0.4666666666666667
+"C2 M-b, test pair structures removed",RF,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",RF,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",MLP,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",MLP,MF-P11,2S_DV_2+B1_3,valve-bearing,0.08888888888888888,0.08888888888888888
+"C2 M-b, test pair structures removed",MLP,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",MLP,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",MLP,MF-P2,2S_DV_1+B1_1,valve-bearing,0.02222222222222222,0.02222222222222222
+"C2 M-b, test pair structures removed",MLP,MF-P3,2S_DV_2+B1_1,valve-bearing,0.13333333333333333,0.3555555555555555
+"C2 M-b, test pair structures removed",MLP,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",MLP,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",MLP,MF-P6,2S_DV_1+B1_2,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",MLP,MF-P7,2S_DV_2+B1_2,valve-bearing,0.2,0.2
+"C2 M-b, test pair structures removed",MLP,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",MLP,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",MLP,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",MLP,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",MLP,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",MLP,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",MLP,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",MLP,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",MLP,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",MLP,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",CNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",CNN,MF-P11,2S_DV_2+B1_3,valve-bearing,0.6666666666666665,0.6666666666666665
+"C2 M-b, test pair structures removed",CNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",CNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.02222222222222222
+"C2 M-b, test pair structures removed",CNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",CNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.3777777777777778,0.4666666666666667
+"C2 M-b, test pair structures removed",CNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",CNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",CNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",CNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.8888888888888888,0.8888888888888888
+"C2 M-b, test pair structures removed",CNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",CNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",CNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",CNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.31111111111111106,0.31111111111111106
+"C2 M-b, test pair structures removed",CNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",CNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",CNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",CNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.04444444444444444,0.08888888888888888
+"C2 M-b, test pair structures removed",CNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",CNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",Dense,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.1111111111111111
+"C2 M-b, test pair structures removed",Dense,MF-P11,2S_DV_2+B1_3,valve-bearing,0.04444444444444444,0.5777777777777778
+"C2 M-b, test pair structures removed",Dense,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",Dense,MF-P13,2S_DV_4+B1_3,valve-bearing,0.2,0.2
+"C2 M-b, test pair structures removed",Dense,MF-P2,2S_DV_1+B1_1,valve-bearing,0.44444444444444436,0.44444444444444436
+"C2 M-b, test pair structures removed",Dense,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.24444444444444446
+"C2 M-b, test pair structures removed",Dense,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",Dense,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",Dense,MF-P6,2S_DV_1+B1_2,valve-bearing,0.5777777777777778,0.6222222222222221
+"C2 M-b, test pair structures removed",Dense,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,0.6444444444444444
+"C2 M-b, test pair structures removed",Dense,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",Dense,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",Dense,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",Dense,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",Dense,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",Dense,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",Dense,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",Dense,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",Dense,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",Dense,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",GNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.06666666666666667
+"C2 M-b, test pair structures removed",GNN,MF-P11,2S_DV_2+B1_3,valve-bearing,0.6,1.0
+"C2 M-b, test pair structures removed",GNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",GNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.5777777777777778,0.7777777777777778
+"C2 M-b, test pair structures removed",GNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.7777777777777775,0.7777777777777775
+"C2 M-b, test pair structures removed",GNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.9111111111111111
+"C2 M-b, test pair structures removed",GNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",GNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",GNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.8,0.8
+"C2 M-b, test pair structures removed",GNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,1.0
+"C2 M-b, test pair structures removed",GNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",GNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+"C2 M-b, test pair structures removed",GNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",GNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",GNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",GNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",GNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",GNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",GNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+"C2 M-b, test pair structures removed",GNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b without A2,RF,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C2 M-b without A2,RF,MF-P11,2S_DV_2+B1_3,valve-bearing,0.0,1.0
+C2 M-b without A2,RF,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-b without A2,RF,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+C2 M-b without A2,RF,MF-P2,2S_DV_1+B1_1,valve-bearing,0.0,0.0
+C2 M-b without A2,RF,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,1.0
+C2 M-b without A2,RF,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-b without A2,RF,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-b without A2,RF,MF-P6,2S_DV_1+B1_2,valve-bearing,0.0,0.0
+C2 M-b without A2,RF,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,1.0
+C2 M-b without A2,RF,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-b without A2,RF,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+C2 M-b without A2,RF,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b without A2,RF,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,1.0
+C2 M-b without A2,RF,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b without A2,RF,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b without A2,RF,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b without A2,RF,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.7333333333333333,0.7333333333333333
+C2 M-b without A2,RF,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b without A2,RF,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b without A2,MLP,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C2 M-b without A2,MLP,MF-P11,2S_DV_2+B1_3,valve-bearing,0.16666666666666666,1.0
+C2 M-b without A2,MLP,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-b without A2,MLP,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+C2 M-b without A2,MLP,MF-P2,2S_DV_1+B1_1,valve-bearing,0.0,0.0
+C2 M-b without A2,MLP,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.6333333333333333
+C2 M-b without A2,MLP,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-b without A2,MLP,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-b without A2,MLP,MF-P6,2S_DV_1+B1_2,valve-bearing,0.03333333333333333,0.03333333333333333
+C2 M-b without A2,MLP,MF-P7,2S_DV_2+B1_2,valve-bearing,0.16666666666666666,1.0
+C2 M-b without A2,MLP,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-b without A2,MLP,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+C2 M-b without A2,MLP,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b without A2,MLP,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.8666666666666667
+C2 M-b without A2,MLP,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b without A2,MLP,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b without A2,MLP,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.8666666666666667
+C2 M-b without A2,MLP,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.8333333333333334
+C2 M-b without A2,MLP,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.03333333333333333,0.03333333333333333
+C2 M-b without A2,MLP,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b without A2,CNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C2 M-b without A2,CNN,MF-P11,2S_DV_2+B1_3,valve-bearing,1.0,1.0
+C2 M-b without A2,CNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-b without A2,CNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.2,0.23333333333333334
+C2 M-b without A2,CNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.06666666666666667,0.06666666666666667
+C2 M-b without A2,CNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.03333333333333333,1.0
+C2 M-b without A2,CNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-b without A2,CNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-b without A2,CNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.0,0.0
+C2 M-b without A2,CNN,MF-P7,2S_DV_2+B1_2,valve-bearing,1.0,1.0
+C2 M-b without A2,CNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-b without A2,CNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+C2 M-b without A2,CNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b without A2,CNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.6
+C2 M-b without A2,CNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b without A2,CNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b without A2,CNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b without A2,CNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.16666666666666666,0.9
+C2 M-b without A2,CNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.43333333333333335,0.43333333333333335
+C2 M-b without A2,CNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b without A2,Dense,MF-P10,2S_DV_1+B1_3,valve-bearing,0.3333333333333333,0.3333333333333333
+C2 M-b without A2,Dense,MF-P11,2S_DV_2+B1_3,valve-bearing,0.9666666666666667,1.0
+C2 M-b without A2,Dense,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-b without A2,Dense,MF-P13,2S_DV_4+B1_3,valve-bearing,0.7666666666666667,0.7666666666666667
+C2 M-b without A2,Dense,MF-P2,2S_DV_1+B1_1,valve-bearing,0.6666666666666666,0.6666666666666666
+C2 M-b without A2,Dense,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.8
+C2 M-b without A2,Dense,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-b without A2,Dense,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-b without A2,Dense,MF-P6,2S_DV_1+B1_2,valve-bearing,0.7333333333333333,0.7333333333333333
+C2 M-b without A2,Dense,MF-P7,2S_DV_2+B1_2,valve-bearing,0.06666666666666667,1.0
+C2 M-b without A2,Dense,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-b without A2,Dense,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.03333333333333333
+C2 M-b without A2,Dense,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b without A2,Dense,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.8
+C2 M-b without A2,Dense,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b without A2,Dense,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b without A2,Dense,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b without A2,Dense,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.43333333333333335
+C2 M-b without A2,Dense,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b without A2,Dense,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b without A2,GNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.03333333333333333,0.03333333333333333
+C2 M-b without A2,GNN,MF-P11,2S_DV_2+B1_3,valve-bearing,0.0,1.0
+C2 M-b without A2,GNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-b without A2,GNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.2
+C2 M-b without A2,GNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.3,0.3
+C2 M-b without A2,GNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,1.0
+C2 M-b without A2,GNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-b without A2,GNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-b without A2,GNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.5333333333333333,0.5333333333333333
+C2 M-b without A2,GNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,1.0
+C2 M-b without A2,GNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-b without A2,GNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.03333333333333333
+C2 M-b without A2,GNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b without A2,GNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,1.0
+C2 M-b without A2,GNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b without A2,GNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b without A2,GNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b without A2,GNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.6333333333333333
+C2 M-b without A2,GNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b without A2,GNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+reference: Valve P1 (B),RF,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+reference: Valve P1 (B),RF,MF-P11,2S_DV_2+B1_3,valve-bearing,0.0,1.0
+reference: Valve P1 (B),RF,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+reference: Valve P1 (B),RF,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+reference: Valve P1 (B),RF,MF-P2,2S_DV_1+B1_1,valve-bearing,0.8666666666666667,0.8666666666666667
+reference: Valve P1 (B),RF,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,1.0
+reference: Valve P1 (B),RF,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+reference: Valve P1 (B),RF,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+reference: Valve P1 (B),RF,MF-P6,2S_DV_1+B1_2,valve-bearing,0.8666666666666667,0.8666666666666667
+reference: Valve P1 (B),RF,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,1.0
+reference: Valve P1 (B),RF,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+reference: Valve P1 (B),RF,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+reference: Valve P1 (B),RF,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+reference: Valve P1 (B),RF,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.6666666666666666
+reference: Valve P1 (B),RF,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+reference: Valve P1 (B),RF,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+reference: Valve P1 (B),RF,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+reference: Valve P1 (B),RF,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.8666666666666667
+reference: Valve P1 (B),RF,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+reference: Valve P1 (B),RF,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+reference: Valve P1 (B),MLP,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+reference: Valve P1 (B),MLP,MF-P11,2S_DV_2+B1_3,valve-bearing,0.9777777777777777,1.0
+reference: Valve P1 (B),MLP,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+reference: Valve P1 (B),MLP,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+reference: Valve P1 (B),MLP,MF-P2,2S_DV_1+B1_1,valve-bearing,0.4666666666666667,0.4666666666666667
+reference: Valve P1 (B),MLP,MF-P3,2S_DV_2+B1_1,valve-bearing,0.08888888888888888,0.7333333333333332
+reference: Valve P1 (B),MLP,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+reference: Valve P1 (B),MLP,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+reference: Valve P1 (B),MLP,MF-P6,2S_DV_1+B1_2,valve-bearing,0.7555555555555554,0.7555555555555554
+reference: Valve P1 (B),MLP,MF-P7,2S_DV_2+B1_2,valve-bearing,0.5555555555555555,0.8666666666666667
+reference: Valve P1 (B),MLP,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+reference: Valve P1 (B),MLP,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+reference: Valve P1 (B),MLP,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+reference: Valve P1 (B),MLP,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.35555555555555546,0.9555555555555555
+reference: Valve P1 (B),MLP,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+reference: Valve P1 (B),MLP,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+reference: Valve P1 (B),MLP,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.9111111111111111
+reference: Valve P1 (B),MLP,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.1111111111111111,0.8888888888888888
+reference: Valve P1 (B),MLP,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+reference: Valve P1 (B),MLP,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+reference: Valve P1 (B),CNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.02222222222222222,0.02222222222222222
+reference: Valve P1 (B),CNN,MF-P11,2S_DV_2+B1_3,valve-bearing,1.0,1.0
+reference: Valve P1 (B),CNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+reference: Valve P1 (B),CNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.19999999999999998,0.24444444444444444
+reference: Valve P1 (B),CNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.7111111111111109,0.7111111111111109
+reference: Valve P1 (B),CNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.8222222222222221
+reference: Valve P1 (B),CNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+reference: Valve P1 (B),CNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+reference: Valve P1 (B),CNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.37777777777777766,0.37777777777777766
+reference: Valve P1 (B),CNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.6888888888888888,0.9777777777777777
+reference: Valve P1 (B),CNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+reference: Valve P1 (B),CNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+reference: Valve P1 (B),CNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+reference: Valve P1 (B),CNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.5333333333333333
+reference: Valve P1 (B),CNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+reference: Valve P1 (B),CNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+reference: Valve P1 (B),CNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.24444444444444444
+reference: Valve P1 (B),CNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.2,1.0
+reference: Valve P1 (B),CNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+reference: Valve P1 (B),CNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+reference: Valve P1 (B),Dense,MF-P10,2S_DV_1+B1_3,valve-bearing,0.04444444444444444,0.04444444444444444
+reference: Valve P1 (B),Dense,MF-P11,2S_DV_2+B1_3,valve-bearing,0.9333333333333333,1.0
+reference: Valve P1 (B),Dense,MF-P12,2S_DV_3+B1_3,valve-bearing,0.31111111111111106,0.31111111111111106
+reference: Valve P1 (B),Dense,MF-P13,2S_DV_4+B1_3,valve-bearing,0.13333333333333333,0.5111111111111112
+reference: Valve P1 (B),Dense,MF-P2,2S_DV_1+B1_1,valve-bearing,1.0,1.0
+reference: Valve P1 (B),Dense,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.9777777777777777
+reference: Valve P1 (B),Dense,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+reference: Valve P1 (B),Dense,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+reference: Valve P1 (B),Dense,MF-P6,2S_DV_1+B1_2,valve-bearing,0.8222222222222222,0.8222222222222222
+reference: Valve P1 (B),Dense,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,1.0
+reference: Valve P1 (B),Dense,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+reference: Valve P1 (B),Dense,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+reference: Valve P1 (B),Dense,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+reference: Valve P1 (B),Dense,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.1111111111111111,0.688888888888889
+reference: Valve P1 (B),Dense,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+reference: Valve P1 (B),Dense,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+reference: Valve P1 (B),Dense,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.04444444444444444
+reference: Valve P1 (B),Dense,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.9777777777777777
+reference: Valve P1 (B),Dense,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+reference: Valve P1 (B),Dense,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+reference: Valve P1 (B),GNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+reference: Valve P1 (B),GNN,MF-P11,2S_DV_2+B1_3,valve-bearing,0.02222222222222222,1.0
+reference: Valve P1 (B),GNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+reference: Valve P1 (B),GNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+reference: Valve P1 (B),GNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.9777777777777777,0.9777777777777777
+reference: Valve P1 (B),GNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.9777777777777777
+reference: Valve P1 (B),GNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+reference: Valve P1 (B),GNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+reference: Valve P1 (B),GNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.8444444444444444,0.8444444444444444
+reference: Valve P1 (B),GNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,1.0
+reference: Valve P1 (B),GNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+reference: Valve P1 (B),GNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+reference: Valve P1 (B),GNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+reference: Valve P1 (B),GNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.6444444444444444
+reference: Valve P1 (B),GNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+reference: Valve P1 (B),GNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+reference: Valve P1 (B),GNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+reference: Valve P1 (B),GNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.9555555555555555
+reference: Valve P1 (B),GNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+reference: Valve P1 (B),GNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+"reference: both, pooled (C1)",RF,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",RF,MF-P11,2S_DV_2+B1_3,valve-bearing,0.0,1.0
+"reference: both, pooled (C1)",RF,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",RF,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",RF,MF-P2,2S_DV_1+B1_1,valve-bearing,0.4,0.4
+"reference: both, pooled (C1)",RF,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,1.0
+"reference: both, pooled (C1)",RF,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",RF,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",RF,MF-P6,2S_DV_1+B1_2,valve-bearing,0.8666666666666667,0.8666666666666667
+"reference: both, pooled (C1)",RF,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,1.0
+"reference: both, pooled (C1)",RF,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",RF,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",RF,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+"reference: both, pooled (C1)",RF,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,1.0
+"reference: both, pooled (C1)",RF,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+"reference: both, pooled (C1)",RF,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+"reference: both, pooled (C1)",RF,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+"reference: both, pooled (C1)",RF,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.13333333333333333,0.9333333333333333
+"reference: both, pooled (C1)",RF,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+"reference: both, pooled (C1)",RF,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+"reference: both, pooled (C1)",MLP,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",MLP,MF-P11,2S_DV_2+B1_3,valve-bearing,1.0,1.0
+"reference: both, pooled (C1)",MLP,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",MLP,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",MLP,MF-P2,2S_DV_1+B1_1,valve-bearing,0.26666666666666666,0.3333333333333333
+"reference: both, pooled (C1)",MLP,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.6666666666666666
+"reference: both, pooled (C1)",MLP,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",MLP,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",MLP,MF-P6,2S_DV_1+B1_2,valve-bearing,0.6666666666666666,0.6666666666666666
+"reference: both, pooled (C1)",MLP,MF-P7,2S_DV_2+B1_2,valve-bearing,0.4,0.9333333333333333
+"reference: both, pooled (C1)",MLP,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",MLP,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",MLP,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+"reference: both, pooled (C1)",MLP,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.06666666666666667,0.5333333333333333
+"reference: both, pooled (C1)",MLP,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+"reference: both, pooled (C1)",MLP,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+"reference: both, pooled (C1)",MLP,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.9333333333333333
+"reference: both, pooled (C1)",MLP,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.8
+"reference: both, pooled (C1)",MLP,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+"reference: both, pooled (C1)",MLP,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+"reference: both, pooled (C1)",CNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",CNN,MF-P11,2S_DV_2+B1_3,valve-bearing,1.0,1.0
+"reference: both, pooled (C1)",CNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",CNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",CNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.06666666666666667,0.06666666666666667
+"reference: both, pooled (C1)",CNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,1.0
+"reference: both, pooled (C1)",CNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",CNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",CNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",CNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.06666666666666667,1.0
+"reference: both, pooled (C1)",CNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",CNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",CNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+"reference: both, pooled (C1)",CNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,1.0
+"reference: both, pooled (C1)",CNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+"reference: both, pooled (C1)",CNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+"reference: both, pooled (C1)",CNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+"reference: both, pooled (C1)",CNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.06666666666666667,1.0
+"reference: both, pooled (C1)",CNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+"reference: both, pooled (C1)",CNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+"reference: both, pooled (C1)",Dense,MF-P10,2S_DV_1+B1_3,valve-bearing,0.06666666666666667,0.06666666666666667
+"reference: both, pooled (C1)",Dense,MF-P11,2S_DV_2+B1_3,valve-bearing,0.9333333333333333,1.0
+"reference: both, pooled (C1)",Dense,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",Dense,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",Dense,MF-P2,2S_DV_1+B1_1,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",Dense,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.6666666666666666
+"reference: both, pooled (C1)",Dense,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",Dense,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",Dense,MF-P6,2S_DV_1+B1_2,valve-bearing,0.9333333333333333,0.9333333333333333
+"reference: both, pooled (C1)",Dense,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,1.0
+"reference: both, pooled (C1)",Dense,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",Dense,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",Dense,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+"reference: both, pooled (C1)",Dense,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.0
+"reference: both, pooled (C1)",Dense,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+"reference: both, pooled (C1)",Dense,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+"reference: both, pooled (C1)",Dense,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+"reference: both, pooled (C1)",Dense,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.8
+"reference: both, pooled (C1)",Dense,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+"reference: both, pooled (C1)",Dense,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+"reference: both, pooled (C1)",GNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",GNN,MF-P11,2S_DV_2+B1_3,valve-bearing,0.0,1.0
+"reference: both, pooled (C1)",GNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",GNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.13333333333333333
+"reference: both, pooled (C1)",GNN,MF-P2,2S_DV_1+B1_1,valve-bearing,1.0,1.0
+"reference: both, pooled (C1)",GNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,1.0
+"reference: both, pooled (C1)",GNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",GNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",GNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.8,0.8
+"reference: both, pooled (C1)",GNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,1.0
+"reference: both, pooled (C1)",GNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",GNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+"reference: both, pooled (C1)",GNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+"reference: both, pooled (C1)",GNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,1.0
+"reference: both, pooled (C1)",GNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+"reference: both, pooled (C1)",GNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+"reference: both, pooled (C1)",GNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+"reference: both, pooled (C1)",GNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.0
+"reference: both, pooled (C1)",GNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+"reference: both, pooled (C1)",GNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+"reference: both, own campaign (C2)",RF,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+"reference: both, own campaign (C2)",RF,MF-P11,2S_DV_2+B1_3,valve-bearing,0.0,1.0
+"reference: both, own campaign (C2)",RF,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+"reference: both, own campaign (C2)",RF,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+"reference: both, own campaign (C2)",RF,MF-P2,2S_DV_1+B1_1,valve-bearing,1.0,1.0
+"reference: both, own campaign (C2)",RF,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.9333333333333333
+"reference: both, own campaign (C2)",RF,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+"reference: both, own campaign (C2)",RF,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+"reference: both, own campaign (C2)",RF,MF-P6,2S_DV_1+B1_2,valve-bearing,0.6,0.7333333333333333
+"reference: both, own campaign (C2)",RF,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,1.0
+"reference: both, own campaign (C2)",RF,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+"reference: both, own campaign (C2)",RF,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+"reference: both, own campaign (C2)",RF,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+"reference: both, own campaign (C2)",RF,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.4
+"reference: both, own campaign (C2)",RF,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+"reference: both, own campaign (C2)",RF,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+"reference: both, own campaign (C2)",RF,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+"reference: both, own campaign (C2)",RF,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.8666666666666667
+"reference: both, own campaign (C2)",RF,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+"reference: both, own campaign (C2)",RF,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+"reference: both, own campaign (C2)",MLP,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+"reference: both, own campaign (C2)",MLP,MF-P11,2S_DV_2+B1_3,valve-bearing,0.4666666666666667,0.9333333333333333
+"reference: both, own campaign (C2)",MLP,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+"reference: both, own campaign (C2)",MLP,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+"reference: both, own campaign (C2)",MLP,MF-P2,2S_DV_1+B1_1,valve-bearing,0.0,0.0
+"reference: both, own campaign (C2)",MLP,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.5333333333333333
+"reference: both, own campaign (C2)",MLP,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+"reference: both, own campaign (C2)",MLP,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+"reference: both, own campaign (C2)",MLP,MF-P6,2S_DV_1+B1_2,valve-bearing,0.4666666666666667,0.4666666666666667
+"reference: both, own campaign (C2)",MLP,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,1.0
+"reference: both, own campaign (C2)",MLP,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+"reference: both, own campaign (C2)",MLP,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+"reference: both, own campaign (C2)",MLP,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+"reference: both, own campaign (C2)",MLP,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.13333333333333333
+"reference: both, own campaign (C2)",MLP,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+"reference: both, own campaign (C2)",MLP,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+"reference: both, own campaign (C2)",MLP,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.2
+"reference: both, own campaign (C2)",MLP,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.6
+"reference: both, own campaign (C2)",MLP,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+"reference: both, own campaign (C2)",MLP,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+"reference: both, own campaign (C2)",CNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.2,0.2
+"reference: both, own campaign (C2)",CNN,MF-P11,2S_DV_2+B1_3,valve-bearing,1.0,1.0
+"reference: both, own campaign (C2)",CNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+"reference: both, own campaign (C2)",CNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.26666666666666666,0.26666666666666666
+"reference: both, own campaign (C2)",CNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.06666666666666667,0.06666666666666667
+"reference: both, own campaign (C2)",CNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.5333333333333333
+"reference: both, own campaign (C2)",CNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+"reference: both, own campaign (C2)",CNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+"reference: both, own campaign (C2)",CNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.5333333333333333,0.5333333333333333
+"reference: both, own campaign (C2)",CNN,MF-P7,2S_DV_2+B1_2,valve-bearing,1.0,1.0
+"reference: both, own campaign (C2)",CNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+"reference: both, own campaign (C2)",CNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+"reference: both, own campaign (C2)",CNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+"reference: both, own campaign (C2)",CNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.0
+"reference: both, own campaign (C2)",CNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+"reference: both, own campaign (C2)",CNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+"reference: both, own campaign (C2)",CNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+"reference: both, own campaign (C2)",CNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.13333333333333333,1.0
+"reference: both, own campaign (C2)",CNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+"reference: both, own campaign (C2)",CNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+"reference: both, own campaign (C2)",Dense,MF-P10,2S_DV_1+B1_3,valve-bearing,0.5333333333333333,0.5333333333333333
+"reference: both, own campaign (C2)",Dense,MF-P11,2S_DV_2+B1_3,valve-bearing,1.0,1.0
+"reference: both, own campaign (C2)",Dense,MF-P12,2S_DV_3+B1_3,valve-bearing,0.9333333333333333,1.0
+"reference: both, own campaign (C2)",Dense,MF-P13,2S_DV_4+B1_3,valve-bearing,0.8,1.0
+"reference: both, own campaign (C2)",Dense,MF-P2,2S_DV_1+B1_1,valve-bearing,1.0,1.0
+"reference: both, own campaign (C2)",Dense,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,1.0
+"reference: both, own campaign (C2)",Dense,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+"reference: both, own campaign (C2)",Dense,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+"reference: both, own campaign (C2)",Dense,MF-P6,2S_DV_1+B1_2,valve-bearing,1.0,1.0
+"reference: both, own campaign (C2)",Dense,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,1.0
+"reference: both, own campaign (C2)",Dense,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+"reference: both, own campaign (C2)",Dense,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.26666666666666666
+"reference: both, own campaign (C2)",Dense,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+"reference: both, own campaign (C2)",Dense,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.5333333333333333,1.0
+"reference: both, own campaign (C2)",Dense,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.13333333333333333,0.13333333333333333
+"reference: both, own campaign (C2)",Dense,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+"reference: both, own campaign (C2)",Dense,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+"reference: both, own campaign (C2)",Dense,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,1.0
+"reference: both, own campaign (C2)",Dense,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+"reference: both, own campaign (C2)",Dense,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+"reference: both, own campaign (C2)",GNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+"reference: both, own campaign (C2)",GNN,MF-P11,2S_DV_2+B1_3,valve-bearing,0.0,1.0
+"reference: both, own campaign (C2)",GNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+"reference: both, own campaign (C2)",GNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+"reference: both, own campaign (C2)",GNN,MF-P2,2S_DV_1+B1_1,valve-bearing,1.0,1.0
+"reference: both, own campaign (C2)",GNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,1.0
+"reference: both, own campaign (C2)",GNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+"reference: both, own campaign (C2)",GNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+"reference: both, own campaign (C2)",GNN,MF-P6,2S_DV_1+B1_2,valve-bearing,1.0,1.0
+"reference: both, own campaign (C2)",GNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,1.0
+"reference: both, own campaign (C2)",GNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+"reference: both, own campaign (C2)",GNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+"reference: both, own campaign (C2)",GNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+"reference: both, own campaign (C2)",GNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.4,0.4
+"reference: both, own campaign (C2)",GNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+"reference: both, own campaign (C2)",GNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+"reference: both, own campaign (C2)",GNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+"reference: both, own campaign (C2)",GNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,1.0
+"reference: both, own campaign (C2)",GNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+"reference: both, own campaign (C2)",GNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b + weighted abduction,RF,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C2 M-b + weighted abduction,RF,MF-P11,2S_DV_2+B1_3,valve-bearing,0.0,1.0
+C2 M-b + weighted abduction,RF,MF-P12,2S_DV_3+B1_3,valve-bearing,1.0,1.0
+C2 M-b + weighted abduction,RF,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,1.0
+C2 M-b + weighted abduction,RF,MF-P2,2S_DV_1+B1_1,valve-bearing,0.0,0.0
+C2 M-b + weighted abduction,RF,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,1.0
+C2 M-b + weighted abduction,RF,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-b + weighted abduction,RF,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-b + weighted abduction,RF,MF-P6,2S_DV_1+B1_2,valve-bearing,0.8666666666666667,0.8666666666666667
+C2 M-b + weighted abduction,RF,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,1.0
+C2 M-b + weighted abduction,RF,MF-P8,2S_DV_3+B1_2,valve-bearing,0.17777777777777776,0.17777777777777776
+C2 M-b + weighted abduction,RF,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.5555555555555555
+C2 M-b + weighted abduction,RF,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b + weighted abduction,RF,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,1.0
+C2 M-b + weighted abduction,RF,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b + weighted abduction,RF,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b + weighted abduction,RF,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.15555555555555553
+C2 M-b + weighted abduction,RF,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.9333333333333333,1.0
+C2 M-b + weighted abduction,RF,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b + weighted abduction,RF,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b + weighted abduction,MLP,MF-P10,2S_DV_1+B1_3,valve-bearing,0.06666666666666667,0.06666666666666667
+C2 M-b + weighted abduction,MLP,MF-P11,2S_DV_2+B1_3,valve-bearing,0.4666666666666666,1.0
+C2 M-b + weighted abduction,MLP,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-b + weighted abduction,MLP,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+C2 M-b + weighted abduction,MLP,MF-P2,2S_DV_1+B1_1,valve-bearing,0.5777777777777778,0.5777777777777778
+C2 M-b + weighted abduction,MLP,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.9777777777777777
+C2 M-b + weighted abduction,MLP,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-b + weighted abduction,MLP,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-b + weighted abduction,MLP,MF-P6,2S_DV_1+B1_2,valve-bearing,0.8666666666666666,0.8666666666666666
+C2 M-b + weighted abduction,MLP,MF-P7,2S_DV_2+B1_2,valve-bearing,0.3111111111111111,1.0
+C2 M-b + weighted abduction,MLP,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-b + weighted abduction,MLP,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+C2 M-b + weighted abduction,MLP,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b + weighted abduction,MLP,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.9333333333333333
+C2 M-b + weighted abduction,MLP,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b + weighted abduction,MLP,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b + weighted abduction,MLP,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,1.0
+C2 M-b + weighted abduction,MLP,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.8888888888888888
+C2 M-b + weighted abduction,MLP,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.02222222222222222,0.02222222222222222
+C2 M-b + weighted abduction,MLP,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b + weighted abduction,CNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C2 M-b + weighted abduction,CNN,MF-P11,2S_DV_2+B1_3,valve-bearing,1.0,1.0
+C2 M-b + weighted abduction,CNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.31111111111111106
+C2 M-b + weighted abduction,CNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.5333333333333333,0.9555555555555556
+C2 M-b + weighted abduction,CNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.9333333333333332,0.9333333333333332
+C2 M-b + weighted abduction,CNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.4000000000000001,0.9555555555555555
+C2 M-b + weighted abduction,CNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-b + weighted abduction,CNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-b + weighted abduction,CNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.7555555555555556,0.7555555555555556
+C2 M-b + weighted abduction,CNN,MF-P7,2S_DV_2+B1_2,valve-bearing,1.0,1.0
+C2 M-b + weighted abduction,CNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.02222222222222222,0.13333333333333333
+C2 M-b + weighted abduction,CNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.06666666666666667,0.5333333333333333
+C2 M-b + weighted abduction,CNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b + weighted abduction,CNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.2222222222222222,1.0
+C2 M-b + weighted abduction,CNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.1111111111111111
+C2 M-b + weighted abduction,CNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b + weighted abduction,CNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.15555555555555553
+C2 M-b + weighted abduction,CNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.3111111111111111,1.0
+C2 M-b + weighted abduction,CNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.04444444444444444,0.04444444444444444
+C2 M-b + weighted abduction,CNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b + weighted abduction,Dense,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C2 M-b + weighted abduction,Dense,MF-P11,2S_DV_2+B1_3,valve-bearing,0.4888888888888889,0.9555555555555555
+C2 M-b + weighted abduction,Dense,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.13333333333333333
+C2 M-b + weighted abduction,Dense,MF-P13,2S_DV_4+B1_3,valve-bearing,0.9111111111111111,0.9777777777777777
+C2 M-b + weighted abduction,Dense,MF-P2,2S_DV_1+B1_1,valve-bearing,0.7999999999999997,0.7999999999999997
+C2 M-b + weighted abduction,Dense,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.9555555555555555
+C2 M-b + weighted abduction,Dense,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-b + weighted abduction,Dense,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-b + weighted abduction,Dense,MF-P6,2S_DV_1+B1_2,valve-bearing,0.7333333333333333,0.7777777777777779
+C2 M-b + weighted abduction,Dense,MF-P7,2S_DV_2+B1_2,valve-bearing,0.15555555555555553,1.0
+C2 M-b + weighted abduction,Dense,MF-P8,2S_DV_3+B1_2,valve-bearing,0.15555555555555553,0.15555555555555553
+C2 M-b + weighted abduction,Dense,MF-P9,2S_DV_4+B1_2,valve-bearing,0.2,0.5333333333333334
+C2 M-b + weighted abduction,Dense,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b + weighted abduction,Dense,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.7777777777777775
+C2 M-b + weighted abduction,Dense,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b + weighted abduction,Dense,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b + weighted abduction,Dense,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.08888888888888888
+C2 M-b + weighted abduction,Dense,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.8222222222222222
+C2 M-b + weighted abduction,Dense,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.02222222222222222,0.02222222222222222
+C2 M-b + weighted abduction,Dense,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b + weighted abduction,GNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.1111111111111111,0.28888888888888886
+C2 M-b + weighted abduction,GNN,MF-P11,2S_DV_2+B1_3,valve-bearing,0.6444444444444445,1.0
+C2 M-b + weighted abduction,GNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-b + weighted abduction,GNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.5111111111111112,0.6666666666666665
+C2 M-b + weighted abduction,GNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.7555555555555553,0.7555555555555553
+C2 M-b + weighted abduction,GNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,1.0
+C2 M-b + weighted abduction,GNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-b + weighted abduction,GNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-b + weighted abduction,GNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.8444444444444444,0.8666666666666667
+C2 M-b + weighted abduction,GNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.02222222222222222,1.0
+C2 M-b + weighted abduction,GNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-b + weighted abduction,GNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.4
+C2 M-b + weighted abduction,GNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b + weighted abduction,GNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.04444444444444444,0.688888888888889
+C2 M-b + weighted abduction,GNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b + weighted abduction,GNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b + weighted abduction,GNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b + weighted abduction,GNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.6666666666666665
+C2 M-b + weighted abduction,GNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b + weighted abduction,GNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b + Bayesian layer,RF,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C2 M-b + Bayesian layer,RF,MF-P11,2S_DV_2+B1_3,valve-bearing,0.8666666666666667,1.0
+C2 M-b + Bayesian layer,RF,MF-P12,2S_DV_3+B1_3,valve-bearing,0.06666666666666667,0.13333333333333333
+C2 M-b + Bayesian layer,RF,MF-P13,2S_DV_4+B1_3,valve-bearing,0.7333333333333333,0.9333333333333333
+C2 M-b + Bayesian layer,RF,MF-P2,2S_DV_1+B1_1,valve-bearing,0.13333333333333333,0.13333333333333333
+C2 M-b + Bayesian layer,RF,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,1.0
+C2 M-b + Bayesian layer,RF,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-b + Bayesian layer,RF,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-b + Bayesian layer,RF,MF-P6,2S_DV_1+B1_2,valve-bearing,0.6666666666666666,0.6666666666666666
+C2 M-b + Bayesian layer,RF,MF-P7,2S_DV_2+B1_2,valve-bearing,0.13333333333333333,1.0
+C2 M-b + Bayesian layer,RF,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-b + Bayesian layer,RF,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.15555555555555556
+C2 M-b + Bayesian layer,RF,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b + Bayesian layer,RF,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,1.0
+C2 M-b + Bayesian layer,RF,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b + Bayesian layer,RF,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b + Bayesian layer,RF,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b + Bayesian layer,RF,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.8,1.0
+C2 M-b + Bayesian layer,RF,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b + Bayesian layer,RF,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b + Bayesian layer,MLP,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C2 M-b + Bayesian layer,MLP,MF-P11,2S_DV_2+B1_3,valve-bearing,0.8666666666666668,1.0
+C2 M-b + Bayesian layer,MLP,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-b + Bayesian layer,MLP,MF-P13,2S_DV_4+B1_3,valve-bearing,0.20000000000000004,0.20000000000000004
+C2 M-b + Bayesian layer,MLP,MF-P2,2S_DV_1+B1_1,valve-bearing,0.4888888888888888,0.4888888888888888
+C2 M-b + Bayesian layer,MLP,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,1.0
+C2 M-b + Bayesian layer,MLP,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-b + Bayesian layer,MLP,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-b + Bayesian layer,MLP,MF-P6,2S_DV_1+B1_2,valve-bearing,0.6888888888888889,0.6888888888888889
+C2 M-b + Bayesian layer,MLP,MF-P7,2S_DV_2+B1_2,valve-bearing,0.17777777777777776,1.0
+C2 M-b + Bayesian layer,MLP,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-b + Bayesian layer,MLP,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+C2 M-b + Bayesian layer,MLP,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b + Bayesian layer,MLP,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.9777777777777777
+C2 M-b + Bayesian layer,MLP,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b + Bayesian layer,MLP,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b + Bayesian layer,MLP,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,1.0
+C2 M-b + Bayesian layer,MLP,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.08888888888888888,1.0
+C2 M-b + Bayesian layer,MLP,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b + Bayesian layer,MLP,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b + Bayesian layer,CNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C2 M-b + Bayesian layer,CNN,MF-P11,2S_DV_2+B1_3,valve-bearing,1.0,1.0
+C2 M-b + Bayesian layer,CNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-b + Bayesian layer,CNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.711111111111111,0.8444444444444444
+C2 M-b + Bayesian layer,CNN,MF-P2,2S_DV_1+B1_1,valve-bearing,1.0,1.0
+C2 M-b + Bayesian layer,CNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,1.0
+C2 M-b + Bayesian layer,CNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-b + Bayesian layer,CNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-b + Bayesian layer,CNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.5777777777777777,0.5777777777777777
+C2 M-b + Bayesian layer,CNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.9777777777777777,1.0
+C2 M-b + Bayesian layer,CNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-b + Bayesian layer,CNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+C2 M-b + Bayesian layer,CNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b + Bayesian layer,CNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,1.0
+C2 M-b + Bayesian layer,CNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b + Bayesian layer,CNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b + Bayesian layer,CNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.24444444444444444
+C2 M-b + Bayesian layer,CNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.35555555555555557,1.0
+C2 M-b + Bayesian layer,CNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b + Bayesian layer,CNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b + Bayesian layer,Dense,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C2 M-b + Bayesian layer,Dense,MF-P11,2S_DV_2+B1_3,valve-bearing,0.8444444444444444,1.0
+C2 M-b + Bayesian layer,Dense,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.02222222222222222
+C2 M-b + Bayesian layer,Dense,MF-P13,2S_DV_4+B1_3,valve-bearing,0.9555555555555555,0.9777777777777777
+C2 M-b + Bayesian layer,Dense,MF-P2,2S_DV_1+B1_1,valve-bearing,0.7777777777777775,0.7777777777777775
+C2 M-b + Bayesian layer,Dense,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,1.0
+C2 M-b + Bayesian layer,Dense,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-b + Bayesian layer,Dense,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-b + Bayesian layer,Dense,MF-P6,2S_DV_1+B1_2,valve-bearing,0.8444444444444444,0.8444444444444444
+C2 M-b + Bayesian layer,Dense,MF-P7,2S_DV_2+B1_2,valve-bearing,0.08888888888888888,1.0
+C2 M-b + Bayesian layer,Dense,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-b + Bayesian layer,Dense,MF-P9,2S_DV_4+B1_2,valve-bearing,0.04444444444444444,0.4
+C2 M-b + Bayesian layer,Dense,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b + Bayesian layer,Dense,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.9333333333333333
+C2 M-b + Bayesian layer,Dense,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b + Bayesian layer,Dense,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b + Bayesian layer,Dense,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.24444444444444444
+C2 M-b + Bayesian layer,Dense,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,1.0
+C2 M-b + Bayesian layer,Dense,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b + Bayesian layer,Dense,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b + Bayesian layer,GNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+C2 M-b + Bayesian layer,GNN,MF-P11,2S_DV_2+B1_3,valve-bearing,0.8666666666666667,1.0
+C2 M-b + Bayesian layer,GNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+C2 M-b + Bayesian layer,GNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.8888888888888888,0.9555555555555555
+C2 M-b + Bayesian layer,GNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.7111111111111109,0.7111111111111109
+C2 M-b + Bayesian layer,GNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,1.0
+C2 M-b + Bayesian layer,GNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+C2 M-b + Bayesian layer,GNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+C2 M-b + Bayesian layer,GNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.8888888888888888,0.8888888888888888
+C2 M-b + Bayesian layer,GNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.1111111111111111,1.0
+C2 M-b + Bayesian layer,GNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+C2 M-b + Bayesian layer,GNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.3555555555555555
+C2 M-b + Bayesian layer,GNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+C2 M-b + Bayesian layer,GNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.8888888888888888
+C2 M-b + Bayesian layer,GNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b + Bayesian layer,GNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+C2 M-b + Bayesian layer,GNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.1111111111111111
+C2 M-b + Bayesian layer,GNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.28888888888888886,0.9777777777777777
+C2 M-b + Bayesian layer,GNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+C2 M-b + Bayesian layer,GNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+"C2 M-b, ten seeds",MLP,MF-P10,2S_DV_1+B1_3,valve-bearing,0.06666666666666667,0.06666666666666667
+"C2 M-b, ten seeds",MLP,MF-P11,2S_DV_2+B1_3,valve-bearing,0.3777777777777778,0.8222222222222223
+"C2 M-b, ten seeds",MLP,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+"C2 M-b, ten seeds",MLP,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+"C2 M-b, ten seeds",MLP,MF-P2,2S_DV_1+B1_1,valve-bearing,0.5777777777777778,0.5777777777777778
+"C2 M-b, ten seeds",MLP,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.7333333333333332
+"C2 M-b, ten seeds",MLP,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+"C2 M-b, ten seeds",MLP,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+"C2 M-b, ten seeds",MLP,MF-P6,2S_DV_1+B1_2,valve-bearing,0.8666666666666666,0.8666666666666666
+"C2 M-b, ten seeds",MLP,MF-P7,2S_DV_2+B1_2,valve-bearing,0.3111111111111111,0.9333333333333332
+"C2 M-b, ten seeds",MLP,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+"C2 M-b, ten seeds",MLP,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+"C2 M-b, ten seeds",MLP,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+"C2 M-b, ten seeds",MLP,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.8222222222222223
+"C2 M-b, ten seeds",MLP,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+"C2 M-b, ten seeds",MLP,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+"C2 M-b, ten seeds",MLP,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,1.0
+"C2 M-b, ten seeds",MLP,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.5111111111111112
+"C2 M-b, ten seeds",MLP,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.02222222222222222,0.02222222222222222
+"C2 M-b, ten seeds",MLP,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+"C2 M-b, ten seeds",CNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+"C2 M-b, ten seeds",CNN,MF-P11,2S_DV_2+B1_3,valve-bearing,1.0,1.0
+"C2 M-b, ten seeds",CNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+"C2 M-b, ten seeds",CNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.04444444444444444,0.1111111111111111
+"C2 M-b, ten seeds",CNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.911111111111111,0.911111111111111
+"C2 M-b, ten seeds",CNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.3555555555555555,0.911111111111111
+"C2 M-b, ten seeds",CNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+"C2 M-b, ten seeds",CNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+"C2 M-b, ten seeds",CNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.7555555555555556,0.7555555555555556
+"C2 M-b, ten seeds",CNN,MF-P7,2S_DV_2+B1_2,valve-bearing,1.0,1.0
+"C2 M-b, ten seeds",CNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.02222222222222222
+"C2 M-b, ten seeds",CNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.04444444444444444
+"C2 M-b, ten seeds",CNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+"C2 M-b, ten seeds",CNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.2222222222222222,1.0
+"C2 M-b, ten seeds",CNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.1111111111111111
+"C2 M-b, ten seeds",CNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+"C2 M-b, ten seeds",CNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.15555555555555553
+"C2 M-b, ten seeds",CNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.2888888888888889,0.9111111111111111
+"C2 M-b, ten seeds",CNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.15555555555555556,0.15555555555555556
+"C2 M-b, ten seeds",CNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+"C2 M-b, ten seeds",Dense,MF-P10,2S_DV_1+B1_3,valve-bearing,0.03809523809523809,0.03809523809523809
+"C2 M-b, ten seeds",Dense,MF-P11,2S_DV_2+B1_3,valve-bearing,0.5428571428571428,0.8952380952380954
+"C2 M-b, ten seeds",Dense,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.06666666666666667
+"C2 M-b, ten seeds",Dense,MF-P13,2S_DV_4+B1_3,valve-bearing,0.6285714285714284,0.6476190476190474
+"C2 M-b, ten seeds",Dense,MF-P2,2S_DV_1+B1_1,valve-bearing,0.857142857142857,0.857142857142857
+"C2 M-b, ten seeds",Dense,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.8761904761904762
+"C2 M-b, ten seeds",Dense,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+"C2 M-b, ten seeds",Dense,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+"C2 M-b, ten seeds",Dense,MF-P6,2S_DV_1+B1_2,valve-bearing,0.8476190476190477,0.8666666666666667
+"C2 M-b, ten seeds",Dense,MF-P7,2S_DV_2+B1_2,valve-bearing,0.219047619047619,0.980952380952381
+"C2 M-b, ten seeds",Dense,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+"C2 M-b, ten seeds",Dense,MF-P9,2S_DV_4+B1_2,valve-bearing,0.02857142857142857,0.21904761904761902
+"C2 M-b, ten seeds",Dense,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+"C2 M-b, ten seeds",Dense,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.1333333333333333,0.7619047619047616
+"C2 M-b, ten seeds",Dense,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+"C2 M-b, ten seeds",Dense,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+"C2 M-b, ten seeds",Dense,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.02857142857142857,0.1333333333333333
+"C2 M-b, ten seeds",Dense,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.009523809523809523,0.4380952380952381
+"C2 M-b, ten seeds",Dense,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.009523809523809523,0.009523809523809523
+"C2 M-b, ten seeds",Dense,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+"C2 M-b, ten seeds",GNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.05714285714285714,0.24761904761904757
+"C2 M-b, ten seeds",GNN,MF-P11,2S_DV_2+B1_3,valve-bearing,0.39999999999999997,1.0
+"C2 M-b, ten seeds",GNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.12380952380952379
+"C2 M-b, ten seeds",GNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.48571428571428565,0.5619047619047618
+"C2 M-b, ten seeds",GNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.7714285714285711,0.7714285714285711
+"C2 M-b, ten seeds",GNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.9904761904761905
+"C2 M-b, ten seeds",GNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+"C2 M-b, ten seeds",GNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+"C2 M-b, ten seeds",GNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.8666666666666667,0.8857142857142857
+"C2 M-b, ten seeds",GNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.009523809523809523,1.0
+"C2 M-b, ten seeds",GNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+"C2 M-b, ten seeds",GNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.21904761904761902
+"C2 M-b, ten seeds",GNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+"C2 M-b, ten seeds",GNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.05714285714285714,0.5238095238095238
+"C2 M-b, ten seeds",GNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+"C2 M-b, ten seeds",GNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+"C2 M-b, ten seeds",GNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+"C2 M-b, ten seeds",GNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.04761904761904761,0.38095238095238104
+"C2 M-b, ten seeds",GNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+"C2 M-b, ten seeds",GNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+M5 random mask 1,GNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+M5 random mask 1,GNN,MF-P11,2S_DV_2+B1_3,valve-bearing,0.0,0.0
+M5 random mask 1,GNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+M5 random mask 1,GNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.0,0.0
+M5 random mask 1,GNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.8666666666666667,0.8666666666666667
+M5 random mask 1,GNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.06666666666666667
+M5 random mask 1,GNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+M5 random mask 1,GNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.06666666666666667,0.06666666666666667
+M5 random mask 1,GNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.7333333333333333,0.7333333333333333
+M5 random mask 1,GNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.26666666666666666,0.9333333333333333
+M5 random mask 1,GNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+M5 random mask 1,GNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.6666666666666666,0.7333333333333333
+M5 random mask 1,GNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+M5 random mask 1,GNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.6666666666666666,0.6666666666666666
+M5 random mask 1,GNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+M5 random mask 1,GNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+M5 random mask 1,GNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+M5 random mask 1,GNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.06666666666666667
+M5 random mask 1,GNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+M5 random mask 1,GNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+M5 random mask 2,GNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+M5 random mask 2,GNN,MF-P11,2S_DV_2+B1_3,valve-bearing,0.0,0.6666666666666666
+M5 random mask 2,GNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.06666666666666667
+M5 random mask 2,GNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.9333333333333333,0.9333333333333333
+M5 random mask 2,GNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.0,0.0
+M5 random mask 2,GNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.6666666666666666
+M5 random mask 2,GNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+M5 random mask 2,GNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+M5 random mask 2,GNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.0,0.0
+M5 random mask 2,GNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.0,1.0
+M5 random mask 2,GNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+M5 random mask 2,GNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+M5 random mask 2,GNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+M5 random mask 2,GNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.2,0.4666666666666667
+M5 random mask 2,GNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+M5 random mask 2,GNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+M5 random mask 2,GNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+M5 random mask 2,GNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.0
+M5 random mask 2,GNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.4,0.4
+M5 random mask 2,GNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+M5 random mask 3,GNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+M5 random mask 3,GNN,MF-P11,2S_DV_2+B1_3,valve-bearing,0.8666666666666667,0.8666666666666667
+M5 random mask 3,GNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.0
+M5 random mask 3,GNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.4,0.4666666666666667
+M5 random mask 3,GNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.0,0.0
+M5 random mask 3,GNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.0,0.9333333333333333
+M5 random mask 3,GNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+M5 random mask 3,GNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+M5 random mask 3,GNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.2,0.2
+M5 random mask 3,GNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.13333333333333333,0.5333333333333333
+M5 random mask 3,GNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+M5 random mask 3,GNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+M5 random mask 3,GNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+M5 random mask 3,GNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.0,0.0
+M5 random mask 3,GNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+M5 random mask 3,GNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+M5 random mask 3,GNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+M5 random mask 3,GNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.0
+M5 random mask 3,GNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+M5 random mask 3,GNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+M5 random mask 4,GNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.0,0.0
+M5 random mask 4,GNN,MF-P11,2S_DV_2+B1_3,valve-bearing,1.0,1.0
+M5 random mask 4,GNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,1.0
+M5 random mask 4,GNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.06666666666666667,1.0
+M5 random mask 4,GNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.4666666666666667,0.4666666666666667
+M5 random mask 4,GNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.9333333333333333,0.9333333333333333
+M5 random mask 4,GNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+M5 random mask 4,GNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+M5 random mask 4,GNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.6,0.6
+M5 random mask 4,GNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.06666666666666667,0.06666666666666667
+M5 random mask 4,GNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+M5 random mask 4,GNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.0
+M5 random mask 4,GNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+M5 random mask 4,GNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.26666666666666666,0.26666666666666666
+M5 random mask 4,GNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+M5 random mask 4,GNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+M5 random mask 4,GNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.0
+M5 random mask 4,GNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.6666666666666666
+M5 random mask 4,GNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+M5 random mask 4,GNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0
+M5 random mask 5,GNN,MF-P10,2S_DV_1+B1_3,valve-bearing,0.06666666666666667,0.06666666666666667
+M5 random mask 5,GNN,MF-P11,2S_DV_2+B1_3,valve-bearing,1.0,1.0
+M5 random mask 5,GNN,MF-P12,2S_DV_3+B1_3,valve-bearing,0.0,0.06666666666666667
+M5 random mask 5,GNN,MF-P13,2S_DV_4+B1_3,valve-bearing,0.06666666666666667,0.8666666666666667
+M5 random mask 5,GNN,MF-P2,2S_DV_1+B1_1,valve-bearing,0.4666666666666667,0.4666666666666667
+M5 random mask 5,GNN,MF-P3,2S_DV_2+B1_1,valve-bearing,0.6,1.0
+M5 random mask 5,GNN,MF-P4,2S_DV_3+B1_1,valve-bearing,0.0,0.0
+M5 random mask 5,GNN,MF-P5,2S_DV_4+B1_1,valve-bearing,0.0,0.0
+M5 random mask 5,GNN,MF-P6,2S_DV_1+B1_2,valve-bearing,0.8666666666666667,0.8666666666666667
+M5 random mask 5,GNN,MF-P7,2S_DV_2+B1_2,valve-bearing,0.26666666666666666,0.9333333333333333
+M5 random mask 5,GNN,MF-P8,2S_DV_3+B1_2,valve-bearing,0.0,0.0
+M5 random mask 5,GNN,MF-P9,2S_DV_4+B1_2,valve-bearing,0.0,0.06666666666666667
+M5 random mask 5,GNN,V-P18,2S_IV_1+2S_DV_1,valve-valve,0.0,0.0
+M5 random mask 5,GNN,V-P19,2S_IV_2+2S_DV_2,valve-valve,0.06666666666666667,0.06666666666666667
+M5 random mask 5,GNN,V-P20,2S_IV_3+2S_DV_3,valve-valve,0.0,0.0
+M5 random mask 5,GNN,V-P21,2S_IV_4+2S_DV_4,valve-valve,0.0,0.0
+M5 random mask 5,GNN,V-P22,1S_IVb_1+2S_DV_1,valve-valve,0.0,0.6666666666666666
+M5 random mask 5,GNN,V-P23,1S_IVb_2+2S_DV_2,valve-valve,0.0,0.06666666666666667
+M5 random mask 5,GNN,V-P24,1S_IVb_3+2S_DV_3,valve-valve,0.0,0.0
+M5 random mask 5,GNN,V-P25,1S_IVb_4+2S_DV_4,valve-valve,0.0,0.0

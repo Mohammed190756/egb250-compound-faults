@@ -1,0 +1,12 @@
+[
+ {
+  "family": "valve-bearing",
+  "loc": 1.0,
+  "label_best_constant": 0.08333333333333333
+ },
+ {
+  "family": "valve-valve",
+  "loc": 0.5,
+  "label_best_constant": 0.125
+ }
+]
